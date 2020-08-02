@@ -1,4 +1,4 @@
-package in.sattalforestresort.demo;
+package in.sattalforestresort.www;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
