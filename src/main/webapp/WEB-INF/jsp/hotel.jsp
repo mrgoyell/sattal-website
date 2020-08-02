@@ -4,7 +4,7 @@
 <body>
 <jsp:include page="bodyHeader.jsp"/>
 
-<section class="site-hero overlay page-inside" style="background-image: url(img/hero_2.jpg)">
+<section class="site-hero overlay page-inside" style="background-image: url(img/sattal-pics/IMG_20200226_161806.jpg">
     <div class="container">
         <div class="row site-hero-inner justify-content-center align-items-center">
             <div class="col-md-10 text-center">
@@ -17,10 +17,10 @@
 </section>
 <!-- END section -->
 
-<section class="bg-light">
+<section class="bg-light" style="margin-top:30px">
     <div class="half d-md-flex d-block">
-        <div class="image" data-aos="fade" style="background-image: url('jsp/img/hero_1.jpg');"></div>
-        <div class="text" data-aos="fade-right" data-aos-delay="200">
+        <div class="image" data-aos="fade" style="background-image: url('img/sattal-pics/IMG_20200226_102435.jpg');"></div>
+        <div class="text" data-aos="fade-right" data-aos-delay="200" style="border:1px solid #000">
             <h2>5 Star Hotel</h2>
 
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit aliquid, est reiciendis repellat sapiente
@@ -34,8 +34,8 @@
         </div>
     </div>
 
-    <div class="half d-md-flex d-block">
-        <div class="image order-2" data-aos="fade" style="background-image: url('jsp/img/hero_2.jpg');"></div>
+    <div class="half d-md-flex d-block" style="border:1px solid #000">
+        <div class="image order-2" data-aos="fade" style="background-image: url('img/sattal-pics/IMG_20200226_110233.jpg');transform: rotate(90deg);height:675px"></div>
         <div class="text" data-aos="fade-left" data-aos-delay="200">
             <h2>Presidential Room</h2>
 

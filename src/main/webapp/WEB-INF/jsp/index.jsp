@@ -4,7 +4,7 @@
 <body>
 <jsp:include page="bodyHeader.jsp"/>
 
-<section class="site-hero overlay" style="background-image: url(img/hero_1.jpg)">
+<section class="site-hero overlay" style="background-image: url(img/sattal-pics/IMG_20190518_143137.jpg)">
     <div class="container">
         <div class="row site-hero-inner justify-content-center align-items-center">
             <div class="col-md-10 text-center">
@@ -22,7 +22,7 @@
 </section>
 <!-- END section -->
 
-<section class="section visit-section">
+<%--<section class="section visit-section">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -59,7 +59,7 @@
             </span>
             </div>
             <div class="col-lg-3 col-md-6 visit mb-3" data-aos="fade-right" data-aos-delay="200">
-                <a href="hotel.html"><img src="img/img_4.jpg" alt="Image placeholder" class="img-fluid"> </a>
+                <a href="hotel.html"><img src="img/sattal-pics/IMG_20200226_105820.jpg" alt="Image placeholder" class="img-fluid"> </a>
                 <h3><a href="hotel.html">Hotel Rooms</a></h3>
                 <div class="reviews-star float-left">
                     <span class="ion-android-star"></span>
@@ -88,7 +88,7 @@
             </div>
         </div>
     </div>
-</section>
+</section>--%>
 <!-- END section -->
 
 <section class="section slider-section">
@@ -103,24 +103,24 @@
         </div>
         <div class="row">
             <div class="col-md-12">
-                <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200">
+                <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200" >
                     <div class="slider-item">
-                        <img src="img/slider-1.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/IMG_20180920_071524.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
-                        <img src="img/slider-2.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/IMG_20180920_071542.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
-                        <img src="img/slider-3.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/IMG_20190514_094118.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
-                        <img src="img/slider-4.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/IMG_20190606_182754-1.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
-                        <img src="img/slider-5.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/IMG_20190623_122835.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
-                        <img src="img/slider-6.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/IMG_20200226_102435.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                 </div>
                 <!-- END slider -->
@@ -147,8 +147,8 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="100">
 
                 <div class="media media-custom d-block mb-4">
-                    <a href="#" class="mb-4 d-block"><img src="img/img_1.jpg" alt="Image placeholder" class="img-fluid"></a>
-                    <div class="media-body">
+                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20190630_112847.jpg" alt="Image placeholder" class="img-fluid" style="transform: rotate(90deg);height:350px;width: 260px;margin-left:45px;margin-top:-45px"></a>
+                    <div class="media-body" style="margin-top:-45px">
                         <span class="meta-post">February 26, 2018</span>
                         <h2 class="mt-0 mb-3"><a href="#">Five Reasons to Stay at Villa Resort</a></h2>
                     </div>
@@ -157,8 +157,8 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="200">
                 <div class="media media-custom d-block mb-4">
-                    <a href="#" class="mb-4 d-block"><img src="img/img_2.jpg" alt="Image placeholder" class="img-fluid"></a>
-                    <div class="media-body">
+                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20190630_111430.jpg" alt="Image placeholder" class="img-fluid" style="transform: rotate(90deg);height:350px;width: 260px;margin-left:45px;margin-top:-45px"></a>
+                    <div class="media-body" style="margin-top:-45px">
                         <span class="meta-post">February 26, 2018</span>
                         <h2 class="mt-0 mb-3"><a href="#">Five Reasons to Stay at Villa Resort</a></h2>
                     </div>
@@ -166,7 +166,7 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="300">
                 <div class="media media-custom d-block mb-4">
-                    <a href="#" class="mb-4 d-block"><img src="img/img_3.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20200226_102459.jpg" alt="Image placeholder" class="img-fluid"></a>
                     <div class="media-body">
                         <span class="meta-post">February 26, 2018</span>
                         <h2 class="mt-0 mb-3"><a href="#">Five Reasons to Stay at Villa Resort</a></h2>
