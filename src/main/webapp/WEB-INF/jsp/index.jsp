@@ -4,13 +4,12 @@
 <body>
 <jsp:include page="bodyHeader.jsp"/>
 
-<section class="site-hero overlay" style="background-image: url(img/hero_1.jpg)">
+<section class="site-hero overlay" style="background-image: url(img/IMG_20180920_071524.jpg)">
     <div class="container">
         <div class="row site-hero-inner justify-content-center align-items-center">
             <div class="col-md-10 text-center">
                 <h1 class="heading" data-aos="fade-up">Welcome to <br><em>Sattal Forest Resort</em></h1>
-                <p class="sub-heading mb-5" data-aos="fade-up" data-aos-delay="100">Discover our world-class hotel &amp;
-                    restaurant resort.</p>
+                <p class="sub-heading mb-5" data-aos="fade-up" data-aos-delay="100">Come touch the sky.</p>
                 <p data-aos="fade-up" data-aos-delay="100"><a href="#"
                                                               class="btn uppercase btn-primary mr-md-2 mr-0 mb-3 d-sm-inline d-block">Explore
                     The Beauty</a> <a href="/contact-us" class="btn uppercase btn-outline-light d-sm-inline d-block">Contact
