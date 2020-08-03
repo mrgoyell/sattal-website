@@ -138,18 +138,18 @@
     <div class="container">
         <div class="row justify-content-center text-center mb-5">
             <div class="col-md-8">
-                <h2 class="heading" data-aos="fade-up">Recent Blog Post</h2>
-                <p class="lead" data-aos="fade-up">Lorem ipsum dolor sit amet, consectetur adipisicing elit. In dolor,
-                    iusto doloremque quo odio repudiandae sunt eveniet? Enim facilis laborum voluptate id porro, culpa
-                    maiores quis, blanditiis laboriosam alias. Sed.</p>
+                <h2 class="heading" data-aos="fade-up">Ideal Visit</h2>
+                <p class="lead" data-aos="fade-up">With the weather being pleasant all year-round, it makes the Resort
+                    an ideal getaway, anytime of year. Leave the hustle of the city life behind and lose yourself in the
+                    serenity of nature!</p>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="100">
 
                 <div class="media media-custom d-block mb-4">
-                    <a href="#" class="mb-4 d-block"><img src="img/img_1.jpg" alt="Image placeholder" class="img-fluid"></a>
-                    <div class="media-body">
+                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20190630_112847.jpg" alt="Image placeholder" class="img-fluid" style="transform: rotate(90deg);height:350px;width: 260px;margin-left:45px;margin-top:-45px"></a>
+                    <div class="media-body"  style="margin-top:-45px">
                         <span class="meta-post">February 26, 2018</span>
                         <h2 class="mt-0 mb-3"><a href="#">Five Reasons to Stay at Villa Resort</a></h2>
                     </div>
@@ -158,8 +158,8 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="200">
                 <div class="media media-custom d-block mb-4">
-                    <a href="#" class="mb-4 d-block"><img src="img/img_2.jpg" alt="Image placeholder" class="img-fluid"></a>
-                    <div class="media-body">
+                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20190630_111430.jpg" alt="Image placeholder" class="img-fluid" style="transform: rotate(90deg);height:350px;width: 260px;margin-left:45px;margin-top:-45px"></a>
+                    <div class="media-body"  style="margin-top:-45px">
                         <span class="meta-post">February 26, 2018</span>
                         <h2 class="mt-0 mb-3"><a href="#">Five Reasons to Stay at Villa Resort</a></h2>
                     </div>
@@ -167,7 +167,7 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="300">
                 <div class="media media-custom d-block mb-4">
-                    <a href="#" class="mb-4 d-block"><img src="img/img_3.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20200226_102459.jpg" alt="Image placeholder" class="img-fluid"></a>
                     <div class="media-body">
                         <span class="meta-post">February 26, 2018</span>
                         <h2 class="mt-0 mb-3"><a href="#">Five Reasons to Stay at Villa Resort</a></h2>
