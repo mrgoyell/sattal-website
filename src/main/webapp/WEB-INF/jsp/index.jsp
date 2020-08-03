@@ -5,6 +5,7 @@
 <jsp:include page="bodyHeader.jsp"/>
 
 <section class="site-hero overlay" style="background-image: url(img/IMG_20180920_071524.jpg)">
+    <%--<section class="site-hero overlay" style="background-image: url(img/IMG_20181004_174215-1.jpg)">    --%>
     <div class="container">
         <div class="row site-hero-inner justify-content-center align-items-center">
             <div class="col-md-10 text-center">
@@ -95,9 +96,10 @@
         <div class="row justify-content-center text-center mb-5">
             <div class="col-md-8">
                 <h2 class="heading" data-aos="fade-up">A gorgeous place to enjoy your life.</h2>
-                <p class="lead" data-aos="fade-up" data-aos-delay="100">Lorem ipsum dolor sit amet, consectetur
-                    adipisicing elit. In dolor, iusto doloremque quo odio repudiandae sunt eveniet? Enim facilis laborum
-                    voluptate id porro, culpa maiores quis, blanditiis laboriosam alias. Sed.</p>
+                <p class="lead" data-aos="fade-up" data-aos-delay="100">At an altitude of 5000 ft., the Sattal Forest
+                    Resort is a boutique Resort, set amidst the thick pine and oak forests of the quaint Sattal hills.
+                    The Resort overlooks the tranquil complex of Sattal Lakes. It offers unparalleled bird-watching
+                    experiences and leads to some of the most alluring natural trekking trails.</p>
             </div>
         </div>
         <div class="row">
@@ -136,10 +138,10 @@
     <div class="container">
         <div class="row justify-content-center text-center mb-5">
             <div class="col-md-8">
-                <h2 class="heading" data-aos="fade-up">Recent Blog Post</h2>
-                <p class="lead" data-aos="fade-up">Lorem ipsum dolor sit amet, consectetur adipisicing elit. In dolor,
-                    iusto doloremque quo odio repudiandae sunt eveniet? Enim facilis laborum voluptate id porro, culpa
-                    maiores quis, blanditiis laboriosam alias. Sed.</p>
+                <h2 class="heading" data-aos="fade-up">Ideal Visit</h2>
+                <p class="lead" data-aos="fade-up">With the weather being pleasant all year-round, it makes the Resort
+                    an ideal getaway, anytime of year. Leave the hustle of the city life behind and lose yourself in the
+                    serenity of nature!</p>
             </div>
         </div>
         <div class="row">
