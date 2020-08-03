@@ -3,7 +3,7 @@
 <jsp:include page="navHeader.jsp"/>
 <body>
 <jsp:include page="bodyHeader.jsp"/>
-    <section class="site-hero overlay page-inside" style="background-image: url(img/hero_2.jpg)">
+    <section class="site-hero overlay page-inside" style="background-image: url(img/sattal-pics/IMG_20200226_161538.jpg)">
       <div class="container">
         <div class="row site-hero-inner justify-content-center align-items-center">
           <div class="col-md-10 text-center">
@@ -28,24 +28,24 @@
         </div>
         <div class="row">
           <div class="col-md-12">
-            <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200">
+            <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200" >
               <div class="slider-item">
-                <img src="img/slider-1.jpg" alt="Image placeholder" class="img-fluid">
+                <img src="img/sattal-pics/IMG_20180920_071524.jpg" alt="Image placeholder" class="img-fluid">
               </div>
               <div class="slider-item">
-                <img src="img/slider-2.jpg" alt="Image placeholder" class="img-fluid">
+                <img src="img/sattal-pics/IMG_20180920_071542.jpg" alt="Image placeholder" class="img-fluid">
               </div>
               <div class="slider-item">
-                <img src="img/slider-3.jpg" alt="Image placeholder" class="img-fluid">
+                <img src="img/sattal-pics/IMG_20190514_094118.jpg" alt="Image placeholder" class="img-fluid">
               </div>
               <div class="slider-item">
-                <img src="img/slider-4.jpg" alt="Image placeholder" class="img-fluid">
+                <img src="img/sattal-pics/IMG_20190606_182754-1.jpg" alt="Image placeholder" class="img-fluid">
               </div>
               <div class="slider-item">
-                <img src="img/slider-5.jpg" alt="Image placeholder" class="img-fluid">
+                <img src="img/sattal-pics/IMG_20190623_122835.jpg" alt="Image placeholder" class="img-fluid">
               </div>
               <div class="slider-item">
-                <img src="img/slider-6.jpg" alt="Image placeholder" class="img-fluid">
+                <img src="img/sattal-pics/IMG_20200226_102435.jpg" alt="Image placeholder" class="img-fluid">
               </div>
             </div>
             <!-- END slider -->

@@ -34,9 +34,9 @@
         </div>
     </div>
 
-    <div class="half d-md-flex d-block" style="border:1px solid #000">
+    <div class="half d-md-flex d-block">
         <div class="image order-2" data-aos="fade" style="background-image: url('img/sattal-pics/IMG_20200226_110233.jpg');transform: rotate(90deg);height:675px"></div>
-        <div class="text" data-aos="fade-left" data-aos-delay="200">
+        <div class="text" data-aos="fade-left" data-aos-delay="200" style="border:1px solid #000;height:676px">
             <h2>Presidential Room</h2>
 
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit aliquid, est reiciendis repellat sapiente
@@ -67,22 +67,22 @@
             <div class="col-md-12">
                 <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200">
                     <div class="slider-item">
-                        <img src="img/slider-1.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/IMG_20200226_102447.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
-                        <img src="img/slider-2.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/IMG_20190606_182754-1.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
-                        <img src="img/slider-3.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/IMG_20190706_095342.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
-                        <img src="img/slider-4.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/IMG_20180920_071524.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
-                        <img src="img/slider-5.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/IMG_20200226_102459.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
-                        <img src="img/slider-6.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/IMG_20190624_180504.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                 </div>
                 <!-- END slider -->
@@ -109,8 +109,8 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="100">
 
                 <div class="media media-custom d-block mb-4">
-                    <a href="#" class="mb-4 d-block"><img src="img/img_1.jpg" alt="Image placeholder" class="img-fluid"></a>
-                    <div class="media-body">
+                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20190630_112847.jpg" alt="Image placeholder" class="img-fluid" style="transform: rotate(90deg);height:350px;width: 260px;margin-left:45px;margin-top:-45px"></a>
+                    <div class="media-body" style="margin-top:-45px">
                         <h2 class="mt-0 mb-3"><a href="#">Five Reasons to Stay at Villa Resort</a></h2>
                     </div>
                 </div>
@@ -118,15 +118,15 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="200">
                 <div class="media media-custom d-block mb-4">
-                    <a href="#" class="mb-4 d-block"><img src="img/img_2.jpg" alt="Image placeholder" class="img-fluid"></a>
-                    <div class="media-body">
+                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20190630_111430.jpg" alt="Image placeholder" class="img-fluid" style="transform: rotate(90deg);height:350px;width: 260px;margin-left:45px;margin-top:-45px"></a>
+                    <div class="media-body" style="margin-top:-45px">
                         <h2 class="mt-0 mb-3"><a href="#">Five Reasons to Stay at Villa Resort</a></h2>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="300">
                 <div class="media media-custom d-block mb-4">
-                    <a href="#" class="mb-4 d-block"><img src="img/img_3.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20200226_102459.jpg" alt="Image placeholder" class="img-fluid"></a>
                     <div class="media-body">
                         <h2 class="mt-0 mb-3"><a href="#">Five Reasons to Stay at Villa Resort</a></h2>
                     </div>
