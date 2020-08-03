@@ -4,13 +4,13 @@
 <body>
 <jsp:include page="bodyHeader.jsp"/>
 
-<section class="site-hero overlay" style="background-image: url(img/sattal-pics/IMG_20190518_143137.jpg)">
+<section class="site-hero overlay" style="background-image: url(img/IMG_20180920_071524.jpg)">
+    <%--<section class="site-hero overlay" style="background-image: url(img/IMG_20181004_174215-1.jpg)">    --%>
     <div class="container">
         <div class="row site-hero-inner justify-content-center align-items-center">
             <div class="col-md-10 text-center">
                 <h1 class="heading" data-aos="fade-up">Welcome to <br><em>Sattal Forest Resort</em></h1>
-                <p class="sub-heading mb-5" data-aos="fade-up" data-aos-delay="100">Discover our world-class hotel &amp;
-                    restaurant resort.</p>
+                <p class="sub-heading mb-5" data-aos="fade-up" data-aos-delay="100">Come touch the sky.</p>
                 <p data-aos="fade-up" data-aos-delay="100"><a href="#"
                                                               class="btn uppercase btn-primary mr-md-2 mr-0 mb-3 d-sm-inline d-block">Explore
                     The Beauty</a> <a href="/contact-us" class="btn uppercase btn-outline-light d-sm-inline d-block">Contact
@@ -96,9 +96,10 @@
         <div class="row justify-content-center text-center mb-5">
             <div class="col-md-8">
                 <h2 class="heading" data-aos="fade-up">A gorgeous place to enjoy your life.</h2>
-                <p class="lead" data-aos="fade-up" data-aos-delay="100">Lorem ipsum dolor sit amet, consectetur
-                    adipisicing elit. In dolor, iusto doloremque quo odio repudiandae sunt eveniet? Enim facilis laborum
-                    voluptate id porro, culpa maiores quis, blanditiis laboriosam alias. Sed.</p>
+                <p class="lead" data-aos="fade-up" data-aos-delay="100">At an altitude of 5000 ft., the Sattal Forest
+                    Resort is a boutique Resort, set amidst the thick pine and oak forests of the quaint Sattal hills.
+                    The Resort overlooks the tranquil complex of Sattal Lakes. It offers unparalleled bird-watching
+                    experiences and leads to some of the most alluring natural trekking trails.</p>
             </div>
         </div>
         <div class="row">
@@ -147,8 +148,8 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="100">
 
                 <div class="media media-custom d-block mb-4">
-                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20190630_112847.jpg" alt="Image placeholder" class="img-fluid" style="transform: rotate(90deg);height:350px;width: 260px;margin-left:45px;margin-top:-45px"></a>
-                    <div class="media-body" style="margin-top:-45px">
+                    <a href="#" class="mb-4 d-block"><img src="img/img_1.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <div class="media-body">
                         <span class="meta-post">February 26, 2018</span>
                         <h2 class="mt-0 mb-3"><a href="#">Five Reasons to Stay at Villa Resort</a></h2>
                     </div>
@@ -157,8 +158,8 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="200">
                 <div class="media media-custom d-block mb-4">
-                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20190630_111430.jpg" alt="Image placeholder" class="img-fluid" style="transform: rotate(90deg);height:350px;width: 260px;margin-left:45px;margin-top:-45px"></a>
-                    <div class="media-body" style="margin-top:-45px">
+                    <a href="#" class="mb-4 d-block"><img src="img/img_2.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <div class="media-body">
                         <span class="meta-post">February 26, 2018</span>
                         <h2 class="mt-0 mb-3"><a href="#">Five Reasons to Stay at Villa Resort</a></h2>
                     </div>
@@ -166,7 +167,7 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="300">
                 <div class="media media-custom d-block mb-4">
-                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20200226_102459.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <a href="#" class="mb-4 d-block"><img src="img/img_3.jpg" alt="Image placeholder" class="img-fluid"></a>
                     <div class="media-body">
                         <span class="meta-post">February 26, 2018</span>
                         <h2 class="mt-0 mb-3"><a href="#">Five Reasons to Stay at Villa Resort</a></h2>
