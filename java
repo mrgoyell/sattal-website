@@ -1,1 +1,0 @@
-/home/anurag/resort/resortWebsite/sattal-website/src/main/java
