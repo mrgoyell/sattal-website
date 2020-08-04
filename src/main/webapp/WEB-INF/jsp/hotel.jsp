@@ -19,32 +19,43 @@
 
 <section class="bg-light" style="margin-top:30px">
     <div class="half d-md-flex d-block">
-        <div class="image" data-aos="fade" style="background-image: url('img/sattal-pics/IMG_20200226_102435.jpg');"></div>
+        <div class="image" data-aos="fade"
+             style="background-image: url('img/sattal-pics/IMG_20200226_102435.jpg');"></div>
         <div class="text" data-aos="fade-right" data-aos-delay="200" style="border:1px solid #000">
-            <h2>5 Star Hotel</h2>
-
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit aliquid, est reiciendis repellat sapiente
-                consequatur aperiam, ducimus, id minima eligendi officiis, qui expedita sint culpa illum magnam ipsam
-                adipisci possimus? Sit aspernatur eaque id sunt fuga facere hic laudantium, aperiam!</p>
-            <p>Provident dolor aperiam similique maiores quasi. Quo repudiandae fuga commodi itaque dolores accusamus,
-                dolor esse adipisci labore harum blanditiis in totam ipsum vero necessitatibus incidunt reprehenderit,
-                id iste quas, ab, non! Voluptates, reiciendis culpa iure deserunt voluptatum itaque. Quos, soluta.</p>
-
-            <p class="mt-5"><a href="#" class="btn btn-primary uppercase">Learn More</a></p>
+            <h2>ROOMS & COTTAGES</h2>
+            <p>
+            <ul>
+                <li>4 cottages comprising 12 independent rooms, with attached balconies.</li>
+                <li>Coming with your family? Book the entire cottage for a family-style, private vacation!</li>
+                <li>Each cottage has a separate living room and attached garden.</li>
+                <li>The rooms are luxurious and well equipped
+                    with all modern amenities and running hot and cold water, electric blankets, satellite Televisions
+                    and
+                    DVD Players.
+                </li>
+            </ul>
+            </p>
+            <p class="mt-5"><a href="/contact-us" class="btn btn-primary uppercase">Book Now..</a></p>
         </div>
     </div>
 
     <div class="half d-md-flex d-block">
-        <div class="image order-2" data-aos="fade" style="background-image: url('img/sattal-pics/IMG_20200226_110233.jpg');transform: rotate(90deg);height:675px"></div>
+        <div class="image order-2" data-aos="fade"
+             style="background-image: url('img/sattal-pics/IMG_20200226_110233.jpg');transform: rotate(90deg);height:675px"></div>
         <div class="text" data-aos="fade-left" data-aos-delay="200" style="border:1px solid #000;height:676px">
-            <h2>Presidential Room</h2>
+            <h2>DINING </h2>
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit aliquid, est reiciendis repellat sapiente
-                consequatur aperiam, ducimus, id minima eligendi officiis, qui expedita sint culpa illum magnam ipsam
-                adipisci possimus? Sit aspernatur eaque id sunt fuga facere hic laudantium, aperiam!</p>
-            <p>Provident dolor aperiam similique maiores quasi. Quo repudiandae fuga commodi itaque dolores accusamus,
-                dolor esse adipisci labore harum blanditiis in totam ipsum vero necessitatibus incidunt reprehenderit,
-                id iste quas, ab, non! Voluptates, reiciendis culpa iure deserunt voluptatum itaque. Quos, soluta.</p>
+            <p>Wholesome and hearty meals with a variety of cuisines, served at your doorstep! We are fully geared for
+                room service with all necessary protection in view of Covid-19.</p>
+            <p>Al-fresco dinings accompanied by bonfire (upon request) for those chilly Himalayan nights!</p>
+            <p>
+            <h4>TIMINGS: </h4>
+            <ul>
+                <li> Breakfast: 8:00 a.m - 10:00 a.m</li>
+                <li> Lunch: 1:30 p.m. - 3:30 p.m.</li>
+                <li> Dinner: 8:00 p.m - 10:00 p.m</li>
+            </ul>
+            </p>
 
             <p class="mt-5"><a href="#" class="btn btn-primary uppercase">Learn More</a></p>
         </div>
@@ -57,7 +68,7 @@
     <div class="container">
         <div class="row justify-content-center text-center mb-5">
             <div class="col-md-8">
-                <h2 class="heading" data-aos="fade-up">Hotel Gallery</h2>
+                <h2 class="heading" data-aos="fade-up">Experiences</h2>
                 <p class="lead" data-aos="fade-up" data-aos-delay="100">Lorem ipsum dolor sit amet, consectetur
                     adipisicing elit. In dolor, iusto doloremque quo odio repudiandae sunt eveniet? Enim facilis laborum
                     voluptate id porro, culpa maiores quis, blanditiis laboriosam alias. Sed.</p>
@@ -109,7 +120,9 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="100">
 
                 <div class="media media-custom d-block mb-4">
-                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20190630_112847.jpg" alt="Image placeholder" class="img-fluid" style="transform: rotate(90deg);height:350px;width: 260px;margin-left:45px;margin-top:-45px"></a>
+                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20190630_112847.jpg"
+                                                          alt="Image placeholder" class="img-fluid"
+                                                          style="transform: rotate(90deg);height:350px;width: 260px;margin-left:45px;margin-top:-45px"></a>
                     <div class="media-body" style="margin-top:-45px">
                         <h2 class="mt-0 mb-3"><a href="#">Five Reasons to Stay at Villa Resort</a></h2>
                     </div>
@@ -118,7 +131,9 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="200">
                 <div class="media media-custom d-block mb-4">
-                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20190630_111430.jpg" alt="Image placeholder" class="img-fluid" style="transform: rotate(90deg);height:350px;width: 260px;margin-left:45px;margin-top:-45px"></a>
+                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20190630_111430.jpg"
+                                                          alt="Image placeholder" class="img-fluid"
+                                                          style="transform: rotate(90deg);height:350px;width: 260px;margin-left:45px;margin-top:-45px"></a>
                     <div class="media-body" style="margin-top:-45px">
                         <h2 class="mt-0 mb-3"><a href="#">Five Reasons to Stay at Villa Resort</a></h2>
                     </div>
@@ -126,7 +141,8 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="300">
                 <div class="media media-custom d-block mb-4">
-                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20200226_102459.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20200226_102459.jpg"
+                                                          alt="Image placeholder" class="img-fluid"></a>
                     <div class="media-body">
                         <h2 class="mt-0 mb-3"><a href="#">Five Reasons to Stay at Villa Resort</a></h2>
                     </div>
@@ -135,59 +151,7 @@
         </div>
     </div>
 </section>
-<footer class="section footer-section">
-    <div class="container">
-        <div class="row mb-4">
-            <div class="col-md-3 mb-5">
-                <ul class="list-unstyled link">
-                    <li><a href="#">About Us</a></li>
-                    <li><a href="#">Terms &amp; Conditions</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
-                    <li><a href="#">Help</a></li>
-                    <li><a href="#">Rooms</a></li>
-                </ul>
-            </div>
-            <div class="col-md-3 mb-5">
-                <ul class="list-unstyled link">
-                    <li><a href="#">Our Location</a></li>
-                    <li><a href="#">The Hosts</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Contact</a></li>
-                    <li><a href="#">Restaurant</a></li>
-                </ul>
-            </div>
-            <div class="col-md-3 mb-5 pr-md-5 contact-info">
-                <p><span class="d-block">Address:</span> <span> 98 West 21th Street, Suite 721 New York NY 10016</span>
-                </p>
-                <p><span class="d-block">Phone:</span> <span> (+1) 435 3533</span></p>
-                <p><span class="d-block">Email:</span> <span> info@yourdomain.com</span></p>
-            </div>
-            <div class="col-md-3 mb-5">
-                <p>Sign up for our newsletter</p>
-                <form action="#" class="footer-newsletter">
-                    <div class="form-group">
-                        <input type="email" class="form-control" placeholder="Your email...">
-                        <button type="submit" class="btn"><span class="fa fa-paper-plane"></span></button>
-                    </div>
-                </form>
-            </div>
-        </div>
-        <div class="row bordertop pt-5">
-            <p class="col-md-6 text-left">
-                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                Copyright &copy;<script>document.write(new Date().getFullYear());</script>
-                All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a
-                    href="https://colorlib.com" target="_blank">Colorlib</a>
-                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-
-            <p class="col-md-6 text-right social">
-                <a href="#"><span class="fa fa-tripadvisor"></span></a>
-                <a href="#"><span class="fa fa-facebook"></span></a>
-                <a href="#"><span class="fa fa-twitter"></span></a>
-            </p>
-        </div>
-    </div>
-</footer>
+<jsp:include page="bodyFooter.jsp"></jsp:include>
 
 <script src="js/jquery-3.2.1.min.js"></script>
 <script src="js/popper.min.js"></script>
