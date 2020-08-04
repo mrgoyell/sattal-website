@@ -68,10 +68,11 @@
     <div class="container">
         <div class="row justify-content-center text-center mb-5">
             <div class="col-md-8">
-                <h2 class="heading" data-aos="fade-up">Experiences</h2>
-                <p class="lead" data-aos="fade-up" data-aos-delay="100">Lorem ipsum dolor sit amet, consectetur
-                    adipisicing elit. In dolor, iusto doloremque quo odio repudiandae sunt eveniet? Enim facilis laborum
-                    voluptate id porro, culpa maiores quis, blanditiis laboriosam alias. Sed.</p>
+                <h2 class="heading" data-aos="fade-up">Gallery</h2>
+                <p class="lead" data-aos="fade-up" data-aos-delay="100">With the weather being pleasant all year-round,
+                    it makes the Resort an ideal getaway, anytime of year. Leave the hustle of the city life behind and
+                    lose yourself in the serenity of nature!
+                </p>
             </div>
         </div>
         <div class="row">
@@ -110,10 +111,12 @@
     <div class="container">
         <div class="row justify-content-center text-center mb-5">
             <div class="col-md-8">
-                <h2 class="heading" data-aos="fade-up">More Hotel Features</h2>
-                <p class="lead" data-aos="fade-up">Lorem ipsum dolor sit amet, consectetur adipisicing elit. In dolor,
-                    iusto doloremque quo odio repudiandae sunt eveniet? Enim facilis laborum voluptate id porro, culpa
-                    maiores quis, blanditiis laboriosam alias. Sed.</p>
+                <h2 class="heading" data-aos="fade-up">AT THE RESORT</h2>
+                <p class="lead" data-aos="fade-up">
+                    <p>Outdoor sports: Badminton, Croquet</p>
+                    <p>Indoor spoorts: Billiards, Carrom, Dartboard</p>
+                    <p>Other facilities: books & video library, massage parlour, bonfire</p>
+                </p>
             </div>
         </div>
         <div class="row">
