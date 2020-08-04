@@ -19,32 +19,43 @@
 
 <section class="bg-light" style="margin-top:30px">
     <div class="half d-md-flex d-block">
-        <div class="image" data-aos="fade" style="background-image: url('img/sattal-pics/IMG_20200226_102435.jpg');"></div>
+        <div class="image" data-aos="fade"
+             style="background-image: url('img/sattal-pics/IMG_20200226_102435.jpg');"></div>
         <div class="text" data-aos="fade-right" data-aos-delay="200" style="border:1px solid #000">
-            <h2>5 Star Hotel</h2>
-
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit aliquid, est reiciendis repellat sapiente
-                consequatur aperiam, ducimus, id minima eligendi officiis, qui expedita sint culpa illum magnam ipsam
-                adipisci possimus? Sit aspernatur eaque id sunt fuga facere hic laudantium, aperiam!</p>
-            <p>Provident dolor aperiam similique maiores quasi. Quo repudiandae fuga commodi itaque dolores accusamus,
-                dolor esse adipisci labore harum blanditiis in totam ipsum vero necessitatibus incidunt reprehenderit,
-                id iste quas, ab, non! Voluptates, reiciendis culpa iure deserunt voluptatum itaque. Quos, soluta.</p>
-
-            <p class="mt-5"><a href="#" class="btn btn-primary uppercase">Learn More</a></p>
+            <h2>ROOMS & COTTAGES</h2>
+            <p>
+            <ul>
+                <li>4 cottages comprising 12 independent rooms, with attached balconies.</li>
+                <li>Coming with your family? Book the entire cottage for a family-style, private vacation!</li>
+                <li>Each cottage has a separate living room and attached garden.</li>
+                <li>The rooms are luxurious and well equipped
+                    with all modern amenities and running hot and cold water, electric blankets, satellite Televisions
+                    and
+                    DVD Players.
+                </li>
+            </ul>
+            </p>
+            <p class="mt-5"><a href="/contact-us" class="btn btn-primary uppercase">Book Now..</a></p>
         </div>
     </div>
 
     <div class="half d-md-flex d-block">
-        <div class="image order-2" data-aos="fade" style="background-image: url('img/sattal-pics/IMG_20200226_110233.jpg');transform: rotate(90deg);height:675px"></div>
+        <div class="image order-2" data-aos="fade"
+             style="background-image: url('img/sattal-pics/IMG_20200226_110233.jpg');transform: rotate(90deg);height:675px"></div>
         <div class="text" data-aos="fade-left" data-aos-delay="200" style="border:1px solid #000;height:676px">
-            <h2>Presidential Room</h2>
+            <h2>DINING </h2>
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit aliquid, est reiciendis repellat sapiente
-                consequatur aperiam, ducimus, id minima eligendi officiis, qui expedita sint culpa illum magnam ipsam
-                adipisci possimus? Sit aspernatur eaque id sunt fuga facere hic laudantium, aperiam!</p>
-            <p>Provident dolor aperiam similique maiores quasi. Quo repudiandae fuga commodi itaque dolores accusamus,
-                dolor esse adipisci labore harum blanditiis in totam ipsum vero necessitatibus incidunt reprehenderit,
-                id iste quas, ab, non! Voluptates, reiciendis culpa iure deserunt voluptatum itaque. Quos, soluta.</p>
+            <p>Wholesome and hearty meals with a variety of cuisines, served at your doorstep! We are fully geared for
+                room service with all necessary protection in view of Covid-19.</p>
+            <p>Al-fresco dinings accompanied by bonfire (upon request) for those chilly Himalayan nights!</p>
+            <p>
+            <h4>TIMINGS: </h4>
+            <ul>
+                <li> Breakfast: 8:00 a.m - 10:00 a.m</li>
+                <li> Lunch: 1:30 p.m. - 3:30 p.m.</li>
+                <li> Dinner: 8:00 p.m - 10:00 p.m</li>
+            </ul>
+            </p>
 
             <p class="mt-5"><a href="#" class="btn btn-primary uppercase">Learn More</a></p>
         </div>
@@ -57,10 +68,11 @@
     <div class="container">
         <div class="row justify-content-center text-center mb-5">
             <div class="col-md-8">
-                <h2 class="heading" data-aos="fade-up">Hotel Gallery</h2>
-                <p class="lead" data-aos="fade-up" data-aos-delay="100">Lorem ipsum dolor sit amet, consectetur
-                    adipisicing elit. In dolor, iusto doloremque quo odio repudiandae sunt eveniet? Enim facilis laborum
-                    voluptate id porro, culpa maiores quis, blanditiis laboriosam alias. Sed.</p>
+                <h2 class="heading" data-aos="fade-up">Gallery</h2>
+                <p class="lead" data-aos="fade-up" data-aos-delay="100">With the weather being pleasant all year-round,
+                    it makes the Resort an ideal getaway, anytime of year. Leave the hustle of the city life behind and
+                    lose yourself in the serenity of nature!
+                </p>
             </div>
         </div>
         <div class="row">
@@ -99,17 +111,21 @@
     <div class="container">
         <div class="row justify-content-center text-center mb-5">
             <div class="col-md-8">
-                <h2 class="heading" data-aos="fade-up">More Hotel Features</h2>
-                <p class="lead" data-aos="fade-up">Lorem ipsum dolor sit amet, consectetur adipisicing elit. In dolor,
-                    iusto doloremque quo odio repudiandae sunt eveniet? Enim facilis laborum voluptate id porro, culpa
-                    maiores quis, blanditiis laboriosam alias. Sed.</p>
+                <h2 class="heading" data-aos="fade-up">AT THE RESORT</h2>
+                <p class="lead" data-aos="fade-up">
+                    <p>Outdoor sports: Badminton, Croquet</p>
+                    <p>Indoor spoorts: Billiards, Carrom, Dartboard</p>
+                    <p>Other facilities: books & video library, massage parlour, bonfire</p>
+                </p>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="100">
 
                 <div class="media media-custom d-block mb-4">
-                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20190630_112847.jpg" alt="Image placeholder" class="img-fluid" style="transform: rotate(90deg);height:350px;width: 260px;margin-left:45px;margin-top:-45px"></a>
+                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20190630_112847.jpg"
+                                                          alt="Image placeholder" class="img-fluid"
+                                                          style="transform: rotate(90deg);height:350px;width: 260px;margin-left:45px;margin-top:-45px"></a>
                     <div class="media-body" style="margin-top:-45px">
                         <h2 class="mt-0 mb-3"><a href="#">Five Reasons to Stay at Villa Resort</a></h2>
                     </div>
@@ -118,7 +134,9 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="200">
                 <div class="media media-custom d-block mb-4">
-                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20190630_111430.jpg" alt="Image placeholder" class="img-fluid" style="transform: rotate(90deg);height:350px;width: 260px;margin-left:45px;margin-top:-45px"></a>
+                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20190630_111430.jpg"
+                                                          alt="Image placeholder" class="img-fluid"
+                                                          style="transform: rotate(90deg);height:350px;width: 260px;margin-left:45px;margin-top:-45px"></a>
                     <div class="media-body" style="margin-top:-45px">
                         <h2 class="mt-0 mb-3"><a href="#">Five Reasons to Stay at Villa Resort</a></h2>
                     </div>
@@ -126,7 +144,8 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="300">
                 <div class="media media-custom d-block mb-4">
-                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20200226_102459.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20200226_102459.jpg"
+                                                          alt="Image placeholder" class="img-fluid"></a>
                     <div class="media-body">
                         <h2 class="mt-0 mb-3"><a href="#">Five Reasons to Stay at Villa Resort</a></h2>
                     </div>
@@ -144,8 +163,5 @@
 <script src="js/jquery.waypoints.min.js"></script>
 <script src="js/aos.js"></script>
 <script src="js/main.js"></script>
-<script>
-    $('#hotel').addClass('active');
-</script>
 </body>
 </html>

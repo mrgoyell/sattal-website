@@ -245,8 +245,5 @@
 <!-- <script src="js/jquery.waypoints.min.js"></script> -->
 <script src="js/aos.js"></script>
 <script src="js/main.js"></script>
-<script>
-
-</script>
 </body>
 </html>
