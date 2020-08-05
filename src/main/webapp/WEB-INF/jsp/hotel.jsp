@@ -19,8 +19,7 @@
 
 <section class="bg-light" style="margin-top:30px">
     <div class="half d-md-flex d-block">
-        <div class="image" data-aos="fade"
-             style="background-image: url('img/sattal-pics/IMG_20200226_102435.jpg');"></div>
+        <div class="image" data-aos="fade" style="background-image: url('img/room.png')"></div>
         <div class="text" data-aos="fade-right" data-aos-delay="200" style="border:1px solid #000">
             <h2>ROOMS & COTTAGES</h2>
             <p>
@@ -40,9 +39,8 @@
     </div>
 
     <div class="half d-md-flex d-block">
-        <div class="image order-2" data-aos="fade"
-             style="background-image: url('img/sattal-pics/IMG_20200226_110233.jpg');transform: rotate(90deg);height:675px"></div>
-        <div class="text" data-aos="fade-left" data-aos-delay="200" style="border:1px solid #000;height:676px">
+        <div class="image order-2" data-aos="fade" style="background-image: url('img/sattal-pics/IMG_20200226_102435.jpg')"></div>
+        <div class="text" data-aos="fade-left" data-aos-delay="200" style="border:1px solid #000;">
             <h2>DINING </h2>
 
             <p>Wholesome and hearty meals with a variety of cuisines, served at your doorstep! We are fully geared for
