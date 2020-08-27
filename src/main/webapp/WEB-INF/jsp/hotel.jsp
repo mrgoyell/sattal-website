@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en">
+<title>SFR|Hotel</title>
 <jsp:include page="navHeader.jsp"/>
 <body>
 <jsp:include page="bodyHeader.jsp"/>

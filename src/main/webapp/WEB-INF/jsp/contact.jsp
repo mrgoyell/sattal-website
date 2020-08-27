@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en">
+<title>SFR|Contact</title>
 <jsp:include page="navHeader.jsp"/>
 <body>
 <jsp:include page="bodyHeader.jsp"/>
@@ -57,9 +58,9 @@
           <div class="col-md-5">
             <div class="row">
               <div class="col-md-10 ml-auto contact-info">
-                <p><span class="d-block">Address:</span> <span> 98 West 21th Street, Suite 721 New York NY 10016</span></p>
-                <p><span class="d-block">Phone:</span> <span> (+1) 435 3533</span></p>
-                <p><span class="d-block">Email:</span> <span> info@yourdomain.com</span></p>
+                <p><span class="d-block">Address:</span> <span>10 Surya Gaon, P.O Bhimtal. Distt. Nainital. Uttarakhand 263102 <br> Nearest Railway Station:Kathgodham, Uttarakhand</span></p>
+                <p><span class="d-block">Phone:</span> <span>+91 124 354 5453, +919810107116, +917982215338</span></p>
+                <p><span class="d-block">Email:</span> <span>Info@Sattalforestresort.In</span></p>
               </div>
             </div>
           </div>

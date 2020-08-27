@@ -18,20 +18,18 @@
                 <p style="width:60px;border-top:1px solid #aaa;margin-top:-15px"></p>
                 <p><span class="d-block">Address:</span> <span>  10 Surya Gaon, P.O Bhimtal. Distt. Nainital. Uttarakhand 263102 <br><b>Nearest Railway Station:</b>Kathgodham, Uttarakhand</span>
                 </p>
-                <p><span class="d-block">Phone:</span> <span>+91 124 354 5453, +91 9810107116, +91 7982215338</span></p>
-                <p><span class="d-block">Email:</span> <span>  Info@Sattalforestresort.In</span></p>
+                <p><span class="d-block">Phone:</span> <span>+91 124 354 5453, +919810107116, +917982215338</span></p>
+                <p><span class="d-block">Email:</span> <span> Info@Sattalforestresort.In</span></p>
             </div>
         </div>
         <div class="row bordertop">
-            <p class="col-md-6 text-left">
-                Copyright &copy;<script>document.write(new Date().getFullYear());</script>
-                All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a
-                    href="https://colorlib.com" target="_blank">Colorlib</a></p>
+            <p class="col-md-6 text-left">&copy; SattalForestResort <script>document.write(new Date().getFullYear());</script>
+                 . All rights reserved.</p>
 
             <p class="col-md-6 text-right social">
-                <a href="#"><span class="fa fa-tripadvisor"></span></a>
-                <a href="#"><span class="fa fa-facebook"></span></a>
-                <a href="#"><span class="fa fa-twitter"></span></a>
+                <a href="https://instagram.com/sattal_forest_resort?igshid=1l2lq75x8ig3z"><span class="fa fa-instagram"></span></a>
+                <a href="https://www.facebook.com/sattalforestresort/"><span class="fa fa-facebook"></span></a>
+                <%--<a href="#"><span class="fa fa-twitter"></span></a>--%>
             </p>
         </div>
     </div>
