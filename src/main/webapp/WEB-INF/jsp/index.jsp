@@ -12,86 +12,14 @@
             <div class="col-md-10 text-center">
                 <h1 class="heading" data-aos="fade-up">Welcome to <br><em>Sattal Forest Resort</em></h1>
                 <p class="sub-heading mb-5" data-aos="fade-up" data-aos-delay="100">Come touch the sky.</p>
-                <p data-aos="fade-up" data-aos-delay="100"><a href="#"
-                                                              class="btn uppercase btn-primary mr-md-2 mr-0 mb-3 d-sm-inline d-block">Explore
-                    The Beauty</a> <a href="/contact-us" class="btn uppercase btn-outline-light d-sm-inline d-block">Contact
+                <p data-aos="fade-up" data-aos-delay="100">
+                    <a href="/hotel" class="btn uppercase btn-primary mr-md-2 mr-0 mb-3 d-sm-inline d-block">Explore The Beauty</a>
+                    <a href="/contact-us" class="btn uppercase btn-outline-light d-sm-inline d-block">Contact
                     us</a></p>
             </div>
         </div>
-        <%--         <a href="#" class="scroll-down">Scroll Down</a> --%>
     </div>
 </section>
-<!-- END section -->
-
-<%--<section class="section visit-section">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <h2 class="heading" data-aos="fade-right">You Can Visit</h2>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-3 col-md-6 visit mb-3" data-aos="fade-right">
-                <a href="restaurant.html"><img src="img/img_1.jpg" alt="Image placeholder" class="img-fluid"> </a>
-                <h3><a href="restaurant.html">Food &amp; Wines</a></h3>
-                <div class="reviews-star float-left">
-                    <span class="ion-android-star"></span>
-                    <span class="ion-android-star"></span>
-                    <span class="ion-android-star"></span>
-                    <span class="ion-android-star-half"></span>
-                    <span class="ion-android-star-outline"></span>
-                </div>
-                <span class="reviews-count float-right">
-              3,239 reviews
-            </span>
-            </div>
-            <div class="col-lg-3 col-md-6 visit mb-3" data-aos="fade-right" data-aos-delay="100">
-                <a href="restaurant.html"><img src="img/img_2.jpg" alt="Image placeholder" class="img-fluid"> </a>
-                <h3><a href="restaurant.html">Resort &amp; Spa</a></h3>
-                <div class="reviews-star float-left">
-                    <span class="ion-android-star"></span>
-                    <span class="ion-android-star"></span>
-                    <span class="ion-android-star"></span>
-                    <span class="ion-android-star-half"></span>
-                    <span class="ion-android-star-outline"></span>
-                </div>
-                <span class="reviews-count float-right">
-              4,921 reviews
-            </span>
-            </div>
-            <div class="col-lg-3 col-md-6 visit mb-3" data-aos="fade-right" data-aos-delay="200">
-                <a href="hotel.html"><img src="img/sattal-pics/IMG_20200226_105820.jpg" alt="Image placeholder" class="img-fluid"> </a>
-                <h3><a href="hotel.html">Hotel Rooms</a></h3>
-                <div class="reviews-star float-left">
-                    <span class="ion-android-star"></span>
-                    <span class="ion-android-star"></span>
-                    <span class="ion-android-star"></span>
-                    <span class="ion-android-star"></span>
-                    <span class="ion-android-star-outline"></span>
-                </div>
-                <span class="reviews-count float-right">
-              2,112 reviews
-            </span>
-            </div>
-            <div class="col-lg-3 col-md-6 visit mb-3" data-aos="fade-right" data-aos-delay="300">
-                <a href="yacht.html"><img src="img/img_5.jpg" alt="Image placeholder" class="img-fluid"> </a>
-                <h3><a href="yacht.html">Yacht Club</a></h3>
-                <div class="reviews-star float-left">
-                    <span class="ion-android-star"></span>
-                    <span class="ion-android-star"></span>
-                    <span class="ion-android-star"></span>
-                    <span class="ion-android-star"></span>
-                    <span class="ion-android-star-outline"></span>
-                </div>
-                <span class="reviews-count float-right">
-              6,421 reviews
-            </span>
-            </div>
-        </div>
-    </div>
-</section>--%>
-<!-- END section -->
-
 <section class="section slider-section">
     <div class="container">
         <div class="row justify-content-center text-center mb-5">
@@ -149,8 +77,8 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="100">
 
                 <div class="media media-custom d-block mb-4">
-                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20190630_112847.jpg" alt="Image placeholder" class="img-fluid" style="transform: rotate(90deg);height:350px;width: 260px;margin-left:45px;margin-top:-45px"></a>
-                    <div class="media-body"  style="margin-top:-45px">
+                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/sattalImg.png" alt="Image placeholder" class="img-fluid" style="height:260px;width:100%"></a>
+                    <div class="media-body">
                         <span class="meta-post">February 26, 2018</span>
                         <h2 class="mt-0 mb-3"><a href="#">Five Reasons to Stay at Villa Resort</a></h2>
                     </div>
@@ -159,8 +87,8 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="200">
                 <div class="media media-custom d-block mb-4">
-                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20190630_111430.jpg" alt="Image placeholder" class="img-fluid" style="transform: rotate(90deg);height:350px;width: 260px;margin-left:45px;margin-top:-45px"></a>
-                    <div class="media-body"  style="margin-top:-45px">
+                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/sattalImg02.png" alt="Image placeholder" class="img-fluid" style="height:260px;width:100%"></a>
+                    <div class="media-body" >
                         <span class="meta-post">February 26, 2018</span>
                         <h2 class="mt-0 mb-3"><a href="#">Five Reasons to Stay at Villa Resort</a></h2>
                     </div>

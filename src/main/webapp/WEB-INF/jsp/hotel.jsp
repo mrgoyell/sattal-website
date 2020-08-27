@@ -35,7 +35,7 @@
                 </li>
             </ul>
             </p>
-            <p class="mt-5"><a href="/contact-us" class="btn btn-primary uppercase">Book Now..</a></p>
+            <p class="mt-5"><a href="#" class="btn btn-primary uppercase">Book Now..</a></p>
         </div>
     </div>
 
