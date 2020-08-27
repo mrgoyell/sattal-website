@@ -178,6 +178,7 @@
     </div>
 </section>
 <!-- END section -->
+<%--
 <section class="section testimonial-section">
     <div class="container">
         <div class="row justify-content-center text-center mb-5">
@@ -235,7 +236,7 @@
             <!-- END col -->
         </div>
     </div>
-</section>
+</section>--%>
 <jsp:include page="footer.jsp"/>
 
 <script src="js/jquery-3.2.1.min.js"></script>
