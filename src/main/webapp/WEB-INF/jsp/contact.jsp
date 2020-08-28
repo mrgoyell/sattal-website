@@ -57,10 +57,10 @@
           </div>
           <div class="col-md-5">
             <div class="row">
-              <div class="col-md-10 ml-auto contact-info">
-                <p><span class="d-block">Address:</span> <span>10 Surya Gaon, P.O Bhimtal. Distt. Nainital. Uttarakhand 263102 <br> Nearest Railway Station:Kathgodham, Uttarakhand</span></p>
-                <p><span class="d-block">Phone:</span> <span>+91 124 354 5453, +919810107116, +917982215338</span></p>
-                <p><span class="d-block">Email:</span> <span>Info@Sattalforestresort.In</span></p>
+              <div class="col-md-10 ml-auto contact-info" >
+                <p><span class="d-block">Address:</span> <span style="font-size:16px">10 Surya Gaon, P.O Bhimtal. Distt. Nainital. Uttarakhand 263102 <br> Nearest Railway Station:Kathgodham, Uttarakhand</span></p>
+                <p><span class="d-block">Phone:</span> <span style="font-size:16px">+91 124 354 5453, +919810107116, +917982215338</span></p>
+                <p><span class="d-block">Email:</span> <span style="font-size:16px">Info@Sattalforestresort.In</span></p>
               </div>
             </div>
           </div>
