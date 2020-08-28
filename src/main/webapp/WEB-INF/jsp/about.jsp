@@ -4,7 +4,7 @@
 <jsp:include page="navHeader.jsp"/>
 <body>
 <jsp:include page="bodyHeader.jsp"/>
-    <section class="site-hero overlay page-inside" style="background-image: url(img/sattal-pics/about-us-banner.jpg)">
+    <section class="site-hero overlay page-inside" style="background-image: url(img/sattal-pics/about-us-banner-min.jpg)">
       <div class="container">
         <div class="row site-hero-inner justify-content-center align-items-center">
           <div class="col-md-10 text-center">
@@ -31,35 +31,32 @@
           <div class="col-md-12">
             <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200" >
               <div class="slider-item">
-                <img src="img/sattal-pics/IMG_20180920_071524.jpg" alt="Image placeholder" class="img-fluid">
+                <img src="img/sattal-pics/home-slider-1-min.jpg" alt="Image placeholder" class="img-fluid">
               </div>
               <div class="slider-item">
-                <img src="img/sattal-pics/IMG_20180920_071542.jpg" alt="Image placeholder" class="img-fluid">
+                <img src="img/sattal-pics/home-slider-2-min.jpg" alt="Image placeholder" class="img-fluid">
               </div>
               <div class="slider-item">
-                <img src="img/sattal-pics/IMG_20190514_094118.jpg" alt="Image placeholder" class="img-fluid">
+                <img src="img/sattal-pics/home-slider-3-min.jpg" alt="Image placeholder" class="img-fluid">
               </div>
               <div class="slider-item">
-                <img src="img/sattal-pics/IMG_20190606_182754-1.jpg" alt="Image placeholder" class="img-fluid">
+                <img src="img/sattal-pics/home-slider-4-min.jpg" alt="Image placeholder" class="img-fluid">
               </div>
               <div class="slider-item">
-                <img src="img/sattal-pics/IMG_20190623_122835.jpg" alt="Image placeholder" class="img-fluid">
-              </div>
-              <div class="slider-item">
-                <img src="img/sattal-pics/IMG_20200226_102435.jpg" alt="Image placeholder" class="img-fluid">
+                <img src="img/sattal-pics/home-slider-5-min.jpg" alt="Image placeholder" class="img-fluid">
               </div>
             </div>
             <!-- END slider -->
           </div>
 
-          <div class="col-md-12 text-center"><a href="#" class="">View More Photos</a></div>
+          <%--<div class="col-md-12 text-center"><a href="#" class="">View More Photos</a></div>--%>
         
         </div>
       </div>
     </section>
     <!-- END section -->
-    
-    <section class="section blog-post-entry bg-pattern">
+
+    <%--<section class="section blog-post-entry bg-pattern">
       <div class="container">
         <div class="row justify-content-center text-center mb-5">
           <div class="col-md-8">
@@ -129,7 +126,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section>--%>
    <jsp:include page="footer.jsp"/>
     
     <script src="js/jquery-3.2.1.min.js"></script>

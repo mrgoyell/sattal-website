@@ -2,7 +2,7 @@
     <div class="container" style="margin-top:-40px">
         <div class="row">
             <div class="col-md-4 mb-4">
-                <img src="img/LogoResort.png" alt="Image placeholder" class="img-fluid">
+                <img src="img/sattal-pics/Logo-2-300x43.png" alt="Image placeholder" class="img-fluid">
                 <p>With the weather being pleasant all year-round, it makes the Resort an ideal getaway, anytime of year. Leave the hustle of the city life behind and lose yourself in the serenity of nature!</p>
             </div>
             <div class="col-md-3 mb-5" >
