@@ -41,19 +41,18 @@
                         <img src="img/sattal-pics/home-slider-2-min.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
-                        <img src="img/sattal-pics/home-slider-3-min.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/Sunset garden and bonfire area.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
-                        <img src="img/sattal-pics/home-slider-4-min.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/Deodar cottage night view.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
-                        <img src="img/sattal-pics/home-slider-5-min.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/IMG_20200828_105708.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                 </div>
                 <!-- END slider -->
             </div>
 
-            <div class="col-md-12 text-center"><a href="#" class="">View More Photos</a></div>
 
         </div>
     </div>
