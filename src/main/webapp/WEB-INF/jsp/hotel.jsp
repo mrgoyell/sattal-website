@@ -78,7 +78,7 @@
             <div class="col-md-12">
                 <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200">
                     <div class="slider-item">
-                        <img src="img/sattal-pics/resort-slider/IMG_20180920_071524-min.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/resort-slider/DSCN4599.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
                         <img src="img/sattal-pics/resort-slider/IMG_20190606_182754-1-min.jpg" alt="Image placeholder" class="img-fluid">
@@ -135,7 +135,7 @@
                     <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/activities/common-area-pool.JPG" alt="Image placeholder" class="img-fluid"></a>
                     <div class="media-body">
                         <%--                        <span class="meta-post">February 26, 2018</span>--%>
-                        <h2 class="mt-0 mb-3"><a href="#">A common area filled with games</a></h2>
+                        <h2 class="mt-0 mb-3"><a href="#">Common area with games</a></h2>
                     </div>
                 </div>
             </div>

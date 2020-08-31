@@ -5,7 +5,7 @@
 <body>
 <jsp:include page="bodyHeader.jsp"/>
 
-<section class="site-hero overlay" style="background-image: url(img/sattal-pics/DSCN4599.jpg)">
+<section class="site-hero overlay" style="background-image: url(img/sattal-pics/IMG_20180920_071524-min.jpg)">
     <%--<section class="site-hero overlay" style="background-image: url(img/IMG_20181004_174215-1.jpg)">    --%>
     <div class="container">
         <div class="row site-hero-inner justify-content-center align-items-center">
@@ -73,7 +73,7 @@
                     <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/activities/boating-min.jpg" alt="Image placeholder" class="img-fluid" style="height:260px;width:100%"></a>
                     <div class="media-body">
 <%--                        <span class="meta-post">February 26, 2018</span>--%>
-                        <h2 class="mt-0 mb-3"><a href="#">Boating at the sattal lake</a></h2><br>
+                        <h2 class="mt-0 mb-3"><a href="/resort">Boating at the sattal lake</a></h2><br>
                     </div>
                 </div>
 
@@ -83,7 +83,7 @@
                     <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/activities/croquet.jpg" alt="Image placeholder" class="img-fluid" style="height:260px;width:100%"></a>
                     <div class="media-body" >
 <%--                        <span class="meta-post">February 26, 2018</span>--%>
-                        <h2 class="mt-0 mb-3"><a href="#">A friendly match of croquet</a></h2><br>
+                        <h2 class="mt-0 mb-3"><a href="/resort">A friendly match of croquet</a></h2><br>
                     </div>
                 </div>
             </div>
@@ -92,7 +92,7 @@
                     <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/activities/common-area-pool.JPG" alt="Image placeholder" class="img-fluid"></a>
                     <div class="media-body">
 <%--                        <span class="meta-post">February 26, 2018</span>--%>
-                        <h2 class="mt-0 mb-3"><a href="#">A common area filled with games</a></h2>
+                        <h2 class="mt-0 mb-3"><a href="/resort">Common area with games</a></h2>
                     </div>
                 </div>
             </div>
