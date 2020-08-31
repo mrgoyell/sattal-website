@@ -9,7 +9,7 @@
     <div class="container">
         <div class="row site-hero-inner justify-content-center align-items-center">
             <div class="col-md-10 text-center">
-                <h1 class="heading" data-aos="fade-up">Our Hotel</h1>
+                <h1 class="heading" data-aos="fade-up">Our Resort</h1>
                 <p class="sub-heading mb-5" data-aos="fade-up" data-aos-delay="100">Enjoy your stay.</p>
             </div>
         </div>

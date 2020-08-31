@@ -19,7 +19,7 @@
                                 <div class="col-md-6">
                                     <ul class="list-unstyled menu">
                                         <li class=${Home}><a href="/home">Home</a></li>
-                                        <li class="${param.hotel}"><a href="/hotel">Hotel</a></li>
+                                        <li class="${param.hotel}"><a href="/resort">The Resort</a></li>
                                         <li class=${About}><a href="/about">About</a></li>
                                         <li class=${Contact}><a href="/contact-us">Contact Us</a></li>
                                     </ul>

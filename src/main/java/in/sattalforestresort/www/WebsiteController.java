@@ -13,7 +13,7 @@ public class WebsiteController {
         return "jsp/index";
     }
 
-    @GetMapping("/hotel")
+    @GetMapping("/resort")
     public String hotel(){
         return "jsp/hotel";
     }
