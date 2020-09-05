@@ -1,4 +1,4 @@
-package in.sattalforestresort.www.controller;
+package in.sattalforestresort.www.beans;
 
 import lombok.Data;
 
