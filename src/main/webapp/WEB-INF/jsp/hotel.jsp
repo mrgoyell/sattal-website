@@ -20,7 +20,7 @@
 
 <section class="bg-light" style="margin-top:30px">
     <div class="half d-md-flex d-block">
-        <div class="image" data-aos="fade" style="background-image: url('img/sattal-pics/room-min.jpg')"></div>
+        <div class="image" data-aos="fade" style="background-image: url('img/sattal-pics/room.JPG')"></div>
         <div class="text" data-aos="fade-right" data-aos-delay="200" style="border:1px solid #000">
             <h2>ROOMS & COTTAGES</h2>
             <p>
@@ -78,16 +78,16 @@
             <div class="col-md-12">
                 <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200">
                     <div class="slider-item">
-                        <img src="img/sattal-pics/resort-slider/DSCN4599.jpg" alt="Image placeholder" class="img-fluid">
-                    </div>
-                    <div class="slider-item">
                         <img src="img/sattal-pics/resort-slider/IMG_20190606_182754-1-min.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
                         <img src="img/sattal-pics/resort-slider/IMG_20200226_102447-min.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
-                        <img src="img/sattal-pics/resort-slider/lobby.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/resort-slider/Room.jpg" alt="Image placeholder" class="img-fluid">
+                    </div>
+                    <div class="slider-item">
+                        <img src="img/sattal-pics/resort-slider/Taruwar.JPG" alt="Image placeholder" class="img-fluid">
                     </div>
                 </div>
                 <!-- END slider -->
