@@ -23,22 +23,21 @@
         <div class="row">
           <div class="col-md-7">
             
-            <form action="/contact-us" method="post" class="bg-white p-md-5 p-4 mb-5" style="margin-top: -150px;">
+            <form <%--action="/contact-us"--%> id="sendDetails" class="bg-white p-md-5 p-4 mb-5" onsubmit="sendDetails()" style="margin-top: -150px;">
               <div class="row">
                 <div class="col-md-6 form-group">
                   <label for="name">Name</label>
-                  <input type="text" id="name" name="name" class="form-control ">
+                  <input type="text" id="name" name="name" class="form-control" required>
                 </div>
                 <div class="col-md-6 form-group">
                   <label for="phone">Phone</label>
-                  <input type="text" id="phone" name="phone" class="form-control ">
+                  <input type="text" id="phone" name="phone" class="form-control" onkeypress='validate(event)' required>
                 </div>
               </div>
-          
               <div class="row">
                 <div class="col-md-12 form-group">
                   <label for="email">Email</label>
-                  <input type="email" id="email" name="email" class="form-control ">
+                  <input type="email" id="email" name="email" class="form-control" required>
                 </div>
               </div>
               <div class="row">
@@ -76,5 +75,61 @@
     <script src="js/jquery.waypoints.min.js"></script>
     <script src="js/aos.js"></script>
     <script src="js/main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script>
+
+<script>
+
+  function sendDetails() {
+    var myform = document.getElementById("sendDetails");
+    var fd = new FormData(myform);
+    event.preventDefault();
+    $.ajax({
+      url: "/contact-us",
+      data: fd,
+      cache: false,
+      processData: false,
+      contentType: false,
+      type: 'POST',
+      beforeSend: function () {
+
+
+      },
+      success: function (response) {
+        console.log("Hello");
+        Swal.fire({
+          text: 'Your message has been successfully sent',
+          type: 'success'
+          /*       imageUrl: result.value.avatar_url */
+        });
+      },
+      complete: function () {
+        // Hide image container
+
+      },
+
+      error: function () {
+        console.log("Error");
+      }
+    });
+  }
+
+  function validate(evt) {
+    var theEvent = evt || window.event;
+
+    // Handle paste
+    if (theEvent.type === 'paste') {
+      key = event.clipboardData.getData('text/plain');
+    } else {
+      // Handle key press
+      var key = theEvent.keyCode || theEvent.which;
+      key = String.fromCharCode(key);
+    }
+    var regex = /[0-9]|\./;
+    if( !regex.test(key) ) {
+      theEvent.returnValue = false;
+      if(theEvent.preventDefault) theEvent.preventDefault();
+    }
+  }
+</script>
   </body>
 </html>
