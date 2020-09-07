@@ -35,16 +35,19 @@
             <div class="col-md-12">
                 <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200" >
                     <div class="slider-item">
-                        <img src="img/sattal-pics/home-slider/home-slider-1-min.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/home-slider/entrance-panorama.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
-                        <img src="img/sattal-pics/home-slider/home-slider-3.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/home-slider/home-slider-1-min.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
                         <img src="img/sattal-pics/home-slider/home-slider-4.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
-                        <img src="img/sattal-pics/home-slider/IMG_20200828_105708.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/home-slider/pine-common.JPG" alt="Image placeholder" class="img-fluid">
+                    </div>
+                    <div class="slider-item">
+                        <img src="img/sattal-pics/home-slider/umbrella-on-roof.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                 </div>
                 <!-- END slider -->
