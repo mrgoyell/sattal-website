@@ -91,15 +91,14 @@
       contentType: false,
       type: 'POST',
       beforeSend: function () {
-
-
       },
       success: function (response) {
         console.log("Hello");
         Swal.fire({
-          text: 'Your message has been successfully sent',
-          type: 'success'
-          /*       imageUrl: result.value.avatar_url */
+          text: 'Your query has been submitted',
+          type: 'success',
+        }).then(function() {
+                  location.reload();
         });
       },
       complete: function () {
