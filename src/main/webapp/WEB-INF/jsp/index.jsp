@@ -4,7 +4,10 @@
 <jsp:include page="navHeader.jsp"/>
 <body>
 <jsp:include page="bodyHeader.jsp"/>
-
+<!-- Page Preloder -->
+<div id="preloder">
+    <div class="loader"></div>
+</div>
 <section class="site-hero overlay" style="background-image: url(img/sattal-pics/IMG_20180920_071524-min.jpg)">
     <%--<section class="site-hero overlay" style="background-image: url(img/IMG_20181004_174215-1.jpg)">    --%>
     <div class="container">
@@ -111,5 +114,6 @@
 <!-- <script src="js/jquery.waypoints.min.js"></script> -->
 <script src="js/aos.js"></script>
 <script src="js/main.js"></script>
+<script src="js/loader.js"></script>
 </body>
 </html>

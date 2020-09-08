@@ -4,6 +4,10 @@
 <jsp:include page="navHeader.jsp"/>
 <body>
 <jsp:include page="bodyHeader.jsp"/>
+<!-- Page Preloder -->
+<div id="preloder">
+  <div class="loader"></div>
+</div>
     <section class="site-hero overlay page-inside" style="background-image: url(img/sattal-pics/IMG_20200226_102435-min.jpg)">
       <div class="container">
         <div class="row site-hero-inner justify-content-center align-items-center">
@@ -76,9 +80,8 @@
     <script src="js/aos.js"></script>
     <script src="js/main.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script>
-
+    <script src="js/loader.js"></script>
 <script>
-
   function sendDetails() {
     var myform = document.getElementById("sendDetails");
     var fd = new FormData(myform);
