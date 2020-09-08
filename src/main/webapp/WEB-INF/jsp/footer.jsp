@@ -9,8 +9,8 @@
                 <p style="color:#ffffff;font-weight: bold;margin-top:5px;font-size:20px">USEFUL LINKS</p>
                 <p style="width:60px;border-top:1px solid #aaa;margin-top:-15px"></p>
                 <ul class="list-unstyled link">
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Contact</a></li>
+                    <li class="${param.hotel}"><a href="/resort">Resort</a></li>
+                    <li class=${Contact}><a href="/contact-us">Contact</a></li>
                 </ul>
             </div>
             <div class="col-md-5 mb-5 pr-md-5 contact-info">
@@ -24,7 +24,7 @@
         </div>
         <div class="row bordertop">
             <p class="col-md-6 text-left">&copy; SattalForestResort <script>document.write(new Date().getFullYear());</script>
-                 . All rights reserved.</p>
+                . All rights reserved.</p>
 
             <p class="col-md-6 text-right social">
                 <a href="https://instagram.com/sattal_forest_resort?igshid=1l2lq75x8ig3z"><span class="fa fa-instagram"></span></a>
