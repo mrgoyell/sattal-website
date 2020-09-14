@@ -77,7 +77,7 @@
                     <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/activities/boating-min.jpg" alt="Image placeholder" class="img-fluid" style="height:260px;width:100%"></a>
                     <div class="media-body">
 <%--                        <span class="meta-post">February 26, 2018</span>--%>
-                        <h2 class="mt-0 mb-3"><a href="/resort">Boating at the sattal lake</a></h2><br>
+                        <h2 class="mt-0 mb-3"><a href="/resort">Boating at the sattal lake</a></h2>
                     </div>
                 </div>
 
@@ -87,7 +87,7 @@
                     <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/activities/croquet.jpg" alt="Image placeholder" class="img-fluid" style="height:260px;width:100%"></a>
                     <div class="media-body" >
 <%--                        <span class="meta-post">February 26, 2018</span>--%>
-                        <h2 class="mt-0 mb-3"><a href="/resort">A friendly match of croquet</a></h2><br>
+                        <h2 class="mt-0 mb-3"><a href="/resort">A friendly match of croquet</a></h2>
                     </div>
                 </div>
             </div>
@@ -96,7 +96,7 @@
                     <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/activities/common-area-pool.JPG" alt="Image placeholder" class="img-fluid"></a>
                     <div class="media-body">
 <%--                        <span class="meta-post">February 26, 2018</span>--%>
-                        <h2 class="mt-0 mb-3"><a href="/resort">Common area with games</a></h2>
+                        <h2 class="mt-0 mb-3"><a href="/resort">Games and painting easel</a></h2>
                     </div>
                 </div>
             </div>

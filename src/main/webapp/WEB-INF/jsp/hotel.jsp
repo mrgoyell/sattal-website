@@ -23,7 +23,7 @@
     <div class="half d-md-flex d-block">
         <div class="image" data-aos="fade" style="background-image: url('img/sattal-pics/room.JPG')"></div>
         <div class="text" data-aos="fade-right" data-aos-delay="200" style="border:1px solid #000">
-            <h2>ROOMS & COTTAGES</h2>
+            <h2>Accommodation</h2>
             <p>
             <ul>
                 <li>4 cottages comprising 12 independent rooms, with attached balconies.</li>
@@ -36,14 +36,14 @@
                 </li>
             </ul>
             </p>
-            <p class="mt-5"><a href="#" class="btn btn-primary uppercase">Book Now..</a></p>
+            <p class="mt-5"><a href="/contact-us" class="btn btn-primary uppercase">Book Now..</a></p>
         </div>
     </div>
 
     <div class="half d-md-flex d-block">
         <div class="image order-2" data-aos="fade" style="background-image: url('img/sattal-pics/IMG_20200226_102435-min.jpg')"></div>
         <div class="text" data-aos="fade-left" data-aos-delay="200" style="border:1px solid #000;">
-            <h2>DINING </h2>
+            <h2>Dining</h2>
 
             <p>Wholesome and hearty meals with a variety of cuisines, served at your doorstep! We are fully geared for
                 room service with all necessary protection in view of Covid-19.</p>
@@ -57,7 +57,7 @@
             </ul>
             </p>
 
-            <p class="mt-5"><a href="#" class="btn btn-primary uppercase">Learn More</a></p>
+            <p class="mt-5"><a href="/contact-us" class="btn btn-primary uppercase">Learn More</a></p>
         </div>
     </div>
 
@@ -69,9 +69,8 @@
         <div class="row justify-content-center text-center mb-5">
             <div class="col-md-8">
                 <h2 class="heading" data-aos="fade-up">Gallery</h2>
-                <p class="lead" data-aos="fade-up" data-aos-delay="100">With the weather being pleasant all year-round,
-                    it makes the Resort an ideal getaway, anytime of year. Leave the hustle of the city life behind and
-                    lose yourself in the serenity of nature!
+                <p class="lead" data-aos="fade-up" data-aos-delay="100">
+                    A perfect getaway for families, friends, corporate groups, birdwatchers and trekkers. Cherish the breathtaking panoramic views, exotic flora and fauna and let loose the photographer in you.
                 </p>
             </div>
         </div>
@@ -102,7 +101,7 @@
     <div class="container">
         <div class="row justify-content-center text-center mb-5">
             <div class="col-md-8">
-                <h2 class="heading" data-aos="fade-up">AT THE RESORT</h2>
+                <h2 class="heading" data-aos="fade-up">Activities</h2>
                 <p class="lead" data-aos="fade-up">
                     <p>Outdoor sports: Badminton, Croquet</p>
                     <p>Indoor spoorts: Billiards, Carrom, Dartboard</p>
@@ -117,7 +116,7 @@
                     <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/activities/boating-min.jpg" alt="Image placeholder" class="img-fluid" style="height:260px;width:100%"></a>
                     <div class="media-body">
                         <%--                        <span class="meta-post">February 26, 2018</span>--%>
-                        <h2 class="mt-0 mb-3"><a href="#">Boating at the sattal lake</a></h2><br>
+                        <h2 class="mt-0 mb-3"><a href="#">Boating at the sattal lake</a></h2>
                     </div>
                 </div>
 
@@ -127,7 +126,7 @@
                     <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/activities/croquet.jpg" alt="Image placeholder" class="img-fluid" style="height:260px;width:100%"></a>
                     <div class="media-body" >
                         <%--                        <span class="meta-post">February 26, 2018</span>--%>
-                        <h2 class="mt-0 mb-3"><a href="#">A friendly match of croquet</a></h2><br>
+                        <h2 class="mt-0 mb-3"><a href="#">A friendly match of croquet</a></h2>
                     </div>
                 </div>
             </div>
@@ -136,7 +135,7 @@
                     <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/activities/common-area-pool.JPG" alt="Image placeholder" class="img-fluid"></a>
                     <div class="media-body">
                         <%--                        <span class="meta-post">February 26, 2018</span>--%>
-                        <h2 class="mt-0 mb-3"><a href="#">Common area with games</a></h2>
+                        <h2 class="mt-0 mb-3"><a href="#">Games and painting easel</a></h2>
                     </div>
                 </div>
             </div>

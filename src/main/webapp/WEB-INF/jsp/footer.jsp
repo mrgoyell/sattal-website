@@ -9,7 +9,7 @@
                 <p style="color:#ffffff;font-weight: bold;margin-top:5px;font-size:20px">USEFUL LINKS</p>
                 <p style="width:60px;border-top:1px solid #aaa;margin-top:-15px"></p>
                 <ul class="list-unstyled link">
-                    <li class="${param.hotel}"><a href="/resort">Resort</a></li>
+                    <li class="${param.hotel}"><a href="/resort">About Us</a></li>
                     <li class=${Contact}><a href="/contact-us">Contact</a></li>
                 </ul>
             </div>
