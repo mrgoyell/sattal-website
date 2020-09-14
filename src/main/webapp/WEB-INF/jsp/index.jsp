@@ -4,8 +4,9 @@
 <jsp:include page="navHeader.jsp"/>
 <body>
 <jsp:include page="bodyHeader.jsp"/>
-
-<section class="site-hero overlay" style="background-image: url(img/IMG_20180920_071524.jpg)">
+<!-- loader -->
+<div class="se-pre-con"></div>
+<section class="site-hero overlay" style="background-image: url(img/sattal-pics/IMG_20180920_071524-min.jpg)">
     <%--<section class="site-hero overlay" style="background-image: url(img/IMG_20181004_174215-1.jpg)">    --%>
     <div class="container">
         <div class="row site-hero-inner justify-content-center align-items-center">
@@ -13,7 +14,7 @@
                 <h1 class="heading" data-aos="fade-up">Welcome to <br><em>Sattal Forest Resort</em></h1>
                 <p class="sub-heading mb-5" data-aos="fade-up" data-aos-delay="100">Come touch the sky.</p>
                 <p data-aos="fade-up" data-aos-delay="100">
-                    <a href="/hotel" class="btn uppercase btn-primary mr-md-2 mr-0 mb-3 d-sm-inline d-block">Explore The Beauty</a>
+                    <a href="/resort" class="btn uppercase btn-primary mr-md-2 mr-0 mb-3 d-sm-inline d-block">Explore The Beauty</a>
                     <a href="/contact-us" class="btn uppercase btn-outline-light d-sm-inline d-block">Contact
                     us</a></p>
             </div>
@@ -35,25 +36,24 @@
             <div class="col-md-12">
                 <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200" >
                     <div class="slider-item">
-                        <img src="img/sattal-pics/home-slider-1.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/home-slider/entrance-panorama.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
-                        <img src="img/sattal-pics/home-slider-2.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/home-slider/home-slider-1-min.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
-                        <img src="img/sattal-pics/home-slider-3.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/home-slider/home-slider-4.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
-                        <img src="img/sattal-pics/home-slider-4.png" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/home-slider/pine-common.JPG" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
-                        <img src="img/sattal-pics/home-slider-5.png" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/home-slider/umbrella-on-roof.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                 </div>
                 <!-- END slider -->
             </div>
 
-            <div class="col-md-12 text-center"><a href="#" class="">View More Photos</a></div>
 
         </div>
     </div>
@@ -74,29 +74,29 @@
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="100">
 
                 <div class="media media-custom d-block mb-4">
-                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/sattalImg.png" alt="Image placeholder" class="img-fluid" style="height:260px;width:100%"></a>
+                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/activities/boating-min.jpg" alt="Image placeholder" class="img-fluid" style="height:260px;width:100%"></a>
                     <div class="media-body">
-                        <span class="meta-post">February 26, 2018</span>
-                        <h2 class="mt-0 mb-3"><a href="#">Five Reasons to Stay at Villa Resort</a></h2>
+<%--                        <span class="meta-post">February 26, 2018</span>--%>
+                        <h2 class="mt-0 mb-3"><a href="/resort">Boating at the sattal lake</a></h2><br>
                     </div>
                 </div>
 
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="200">
                 <div class="media media-custom d-block mb-4">
-                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/sattalImg02.png" alt="Image placeholder" class="img-fluid" style="height:260px;width:100%"></a>
+                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/activities/croquet.jpg" alt="Image placeholder" class="img-fluid" style="height:260px;width:100%"></a>
                     <div class="media-body" >
-                        <span class="meta-post">February 26, 2018</span>
-                        <h2 class="mt-0 mb-3"><a href="#">Five Reasons to Stay at Villa Resort</a></h2>
+<%--                        <span class="meta-post">February 26, 2018</span>--%>
+                        <h2 class="mt-0 mb-3"><a href="/resort">A friendly match of croquet</a></h2><br>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="300">
                 <div class="media media-custom d-block mb-4">
-                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/IMG_20200226_102459.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/activities/common-area-pool.JPG" alt="Image placeholder" class="img-fluid"></a>
                     <div class="media-body">
-                        <span class="meta-post">February 26, 2018</span>
-                        <h2 class="mt-0 mb-3"><a href="#">Five Reasons to Stay at Villa Resort</a></h2>
+<%--                        <span class="meta-post">February 26, 2018</span>--%>
+                        <h2 class="mt-0 mb-3"><a href="/resort">Common area with games</a></h2>
                     </div>
                 </div>
             </div>
@@ -109,8 +109,8 @@
 <script src="js/popper.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/owl.carousel.min.js"></script>
-<!-- <script src="js/jquery.waypoints.min.js"></script> -->
 <script src="js/aos.js"></script>
 <script src="js/main.js"></script>
+<script src="js/loader.js"></script>
 </body>
 </html>

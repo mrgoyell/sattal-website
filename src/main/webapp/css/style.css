@@ -381,7 +381,7 @@ textarea.form-control {
 }
 
 .bg-pattern {
-  background: #e9ecef url("../img/round.png");
+ /* background: #e9ecef url("../img/round.png");*/
 }
 
 .slider-section {
@@ -920,9 +920,18 @@ textarea.form-control {
   margin-right: 10px;
   margin-bottom: 10px;
 }
-
 .custom-pagination .page-item.active .page-link {
   background: #dc3545;
   -webkit-box-shadow: 0 2px 7px 0 rgba(0, 0, 0, 0.2);
   box-shadow: 0 2px 7px 0 rgba(0, 0, 0, 0.2);
+}
+.swal2-modal{
+ zoom:75% !important;
+}
+.link li a:hover{
+  border-bottom:3px solid #dc3545;
+}
+.owl-carousel .owl-stage, .owl-carousel.owl-drag .owl-item{
+  -ms-touch-action: auto;
+  touch-action: auto;
 }
