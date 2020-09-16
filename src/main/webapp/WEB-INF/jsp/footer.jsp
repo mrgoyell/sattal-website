@@ -9,7 +9,7 @@
                 <p style="color:#ffffff;font-weight: bold;margin-top:5px;font-size:20px">USEFUL LINKS</p>
                 <p style="width:60px;border-top:1px solid #aaa;margin-top:-15px"></p>
                 <ul class="list-unstyled link">
-                    <li class="${param.hotel}"><a href="/resort">About Us</a></li>
+                    <li class="${param.hotel}"><a href="/about">About Us</a></li>
                     <li class=${Contact}><a href="/contact-us">Contact</a></li>
                 </ul>
             </div>
@@ -27,6 +27,7 @@
                 . All rights reserved.</p>
 
             <p class="col-md-6 text-right social">
+                <a href="https://www.tripadvisor.in/Hotel_Review-g4108271-d1401259-Reviews-Sattal_Forest_Resort-Sattal_Nainital_District_Uttarakhand.html"><span class="fa fa-tripadvisor"></span></a>
                 <a href="https://instagram.com/sattal_forest_resort?igshid=1l2lq75x8ig3z"><span class="fa fa-instagram"></span></a>
                 <a href="https://www.facebook.com/sattalforestresort/"><span class="fa fa-facebook"></span></a>
                 <%--<a href="#"><span class="fa fa-twitter"></span></a>--%>

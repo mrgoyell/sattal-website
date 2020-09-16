@@ -935,3 +935,9 @@ textarea.form-control {
   -ms-touch-action: auto;
   touch-action: auto;
 }
+
+.headingStyle{
+  font-weight: bold;
+  font-family: 'Ultra', sans-serif;
+  font-size:16px;
+}

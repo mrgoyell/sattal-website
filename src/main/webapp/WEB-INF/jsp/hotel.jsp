@@ -10,7 +10,7 @@
     <div class="container">
         <div class="row site-hero-inner justify-content-center align-items-center">
             <div class="col-md-10 text-center">
-                <h1 class="heading" data-aos="fade-up">Our Resort</h1>
+                <h1 class="heading" data-aos="fade-up">About Us</h1>
                 <p class="sub-heading mb-5" data-aos="fade-up" data-aos-delay="100">Enjoy your stay.</p>
             </div>
         </div>
@@ -19,7 +19,7 @@
 </section>
 <!-- END section -->
 
-<section class="bg-light" style="margin-top:30px">
+<%--<section class="bg-light" style="margin-top:30px">
     <div class="half d-md-flex d-block">
         <div class="image" data-aos="fade" style="background-image: url('img/sattal-pics/room.JPG')"></div>
         <div class="text" data-aos="fade-right" data-aos-delay="200" style="border:1px solid #000">
@@ -61,13 +61,44 @@
         </div>
     </div>
 
-</section>
+</section>--%>
 <!-- END section -->
 
 <section class="section slider-section">
     <div class="container">
         <div class="row justify-content-center text-center mb-5">
-            <div class="col-md-8">
+            <div class="col-md-11">
+
+                <p class="lead" data-aos="fade-up" data-aos-delay="100">
+                    Established in 2008, the property is owned and managed by experienced professionals in the field of banking and management, who were driven by their love of the hills nurtured during their stay at boarding school and Aurobindo Ashram in Nainital.
+                    <br>The Resort is well maintained and caters to the aesthetic sense and comfort of the clients.
+                </p>
+            </div>
+        </div>
+        <div class="row justify-content-center text-center mb-5">
+            <div class="col-md-11">
+                <h2 class="heading" data-aos="fade-up">Accommodation</h2>
+                <p class="lead" data-aos="fade-up" data-aos-delay="100">
+                    4 cottages comprising 12 independent rooms with attached bathrooms and balconies.</p>
+                <div class="lead" data-aos="fade-up" data-aos-delay="100" style="text-align: justify;font-family: 'Ultra', sans-serif;font-size:16px">
+                <strong class="headingStyle">Woodsvilla Cottage</strong>:3 bedroom cottage surrounded by tall pine trees offers a great view of the Sattal lakes. It has its own large garden space spacious living and dining room, as also an attached kitchenette. It's specially convenient for seniors as they don't have to climb many steps to their rooms.<br>
+                <strong class="headingStyle">Taruwar Cottage</strong> : 3 bedroom cottage, with its own living room, dining and kitchen which can be made available for long stay.  The rooms have absolutely unhampered views of the lakes and its own private garden for a garden party.</strong><br>
+                <strong class="headingStyle">Pine Cottage</strong>: A cozy warm 2-bedroom cottage with a surrounding covered verandah to enjoy the monsoon and the lovely view of the lakes. The living room of the cottage is equipped with a library and a treadmill to workout. It has its own dining area  and kitchenette. A large terrace overlooking the lake and the beautiful gardens around both sides of the rooms.  The sunset garden also has the bonfire area.<br>
+                <strong class="headingStyle">Deodar Cottage</strong>: This is the main block of the Resort and has the common dining, activities area and the Resort kitchen and Reception on the ground floor. The floor above has  4 spacious bedrooms and a large terrace/ verandah to enjoy your morning cup of tea in the company of melodious birds or a relaxed evening with friends and family.<br>
+                Coming with your family? Take your pick from the above offering.  Book the entire cottage for a family-style, private vacation!<br>
+                All rooms are luxurious and well equipped with all modern amenities including electric kettle, running hot and cold water and satellite television.
+                    </div></div>
+        </div>
+        <div class="row justify-content-center text-center mb-5">
+            <div class="col-md-11">
+                <h2 class="heading" data-aos="fade-up">DINING</h2>
+                <p class="lead" data-aos="fade-up" data-aos-delay="100">
+                    Wholesome and hearty meals in a variety of cuisines, served at your doorstep! We are fully geared for room service / dining in the cottage dinning room with all necessary protection in view of Covid-19.
+                </p>
+            </div>
+        </div>
+        <div class="row justify-content-center text-center mb-5">
+            <div class="col-md-11">
                 <h2 class="heading" data-aos="fade-up">Gallery</h2>
                 <p class="lead" data-aos="fade-up" data-aos-delay="100">
                     A perfect getaway for families, friends, corporate groups, birdwatchers and trekkers. Cherish the breathtaking panoramic views, exotic flora and fauna and let loose the photographer in you.
@@ -97,7 +128,7 @@
 </section>
 <!-- END section -->
 
-<section class="section blog-post-entry bg-pattern">
+<%--<section class="section blog-post-entry bg-pattern">
     <div class="container">
         <div class="row justify-content-center text-center mb-5">
             <div class="col-md-8">
@@ -115,7 +146,7 @@
                 <div class="media media-custom d-block mb-4">
                     <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/activities/boating-min.jpg" alt="Image placeholder" class="img-fluid" style="height:260px;width:100%"></a>
                     <div class="media-body">
-                        <%--                        <span class="meta-post">February 26, 2018</span>--%>
+                        &lt;%&ndash;                        <span class="meta-post">February 26, 2018</span>&ndash;%&gt;
                         <h2 class="mt-0 mb-3"><a href="#">Boating at the sattal lake</a></h2>
                     </div>
                 </div>
@@ -125,7 +156,7 @@
                 <div class="media media-custom d-block mb-4">
                     <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/activities/croquet.jpg" alt="Image placeholder" class="img-fluid" style="height:260px;width:100%"></a>
                     <div class="media-body" >
-                        <%--                        <span class="meta-post">February 26, 2018</span>--%>
+                        &lt;%&ndash;                        <span class="meta-post">February 26, 2018</span>&ndash;%&gt;
                         <h2 class="mt-0 mb-3"><a href="#">A friendly match of croquet</a></h2>
                     </div>
                 </div>
@@ -134,14 +165,14 @@
                 <div class="media media-custom d-block mb-4">
                     <a href="#" class="mb-4 d-block"><img src="img/sattal-pics/activities/common-area-pool.JPG" alt="Image placeholder" class="img-fluid"></a>
                     <div class="media-body">
-                        <%--                        <span class="meta-post">February 26, 2018</span>--%>
+                        &lt;%&ndash;                        <span class="meta-post">February 26, 2018</span>&ndash;%&gt;
                         <h2 class="mt-0 mb-3"><a href="#">Games and painting easel</a></h2>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</section>
+</section>--%>
 <jsp:include page="footer.jsp"/>
 
 <script src="js/jquery-3.2.1.min.js"></script>

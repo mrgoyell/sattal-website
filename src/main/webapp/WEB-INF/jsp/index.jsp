@@ -14,7 +14,7 @@
                 <h1 class="heading" data-aos="fade-up">Welcome to <br><em>Sattal Forest Resort</em></h1>
                 <p class="sub-heading mb-5" data-aos="fade-up" data-aos-delay="100">Come touch the sky.</p>
                 <p data-aos="fade-up" data-aos-delay="100">
-                    <a href="/resort" class="btn uppercase btn-primary mr-md-2 mr-0 mb-3 d-sm-inline d-block">Explore The Beauty</a>
+                    <a href="/about" class="btn uppercase btn-primary mr-md-2 mr-0 mb-3 d-sm-inline d-block">Explore The Beauty</a>
                     <a href="/contact-us" class="btn uppercase btn-outline-light d-sm-inline d-block">Contact
                     us</a></p>
             </div>

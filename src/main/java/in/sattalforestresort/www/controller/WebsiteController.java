@@ -20,19 +20,19 @@ public class WebsiteController {
         return "jsp/index";
     }
 
-    @GetMapping("/resort")
+    @GetMapping("/about")
     public String hotel(){
         return "jsp/hotel";
     }
 
-    @GetMapping("/about")
+    @GetMapping("/activities")
     public String about(){
-        return "jsp/about";
+        return "jsp/activities";
     }
 
-    @GetMapping("/blog")
+    @GetMapping("/location")
     public String blog(){
-        return "jsp/blog";
+        return "jsp/location";
     }
 
     @GetMapping("/contact-us")
