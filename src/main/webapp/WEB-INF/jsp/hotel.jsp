@@ -97,10 +97,11 @@
                 <p class="lead" data-aos="fade-up" data-aos-delay="100">
                     Wholesome and hearty meals in a variety of cuisines, served at your doorstep! We are fully geared for room service / dining in the cottage dinning room with all necessary protection in view of Covid-19.
                 </p>
-                <div class="col-md-12"></div>
             </div>
+            <div data-aos="fade-up" data-aos-delay="200">
             <img src="img/sattal-pics/IMG_20200226_102435-min.jpg" alt="Image placeholder" class="img-fluid">
-        </div>
+            </div>
+            </div>
         <div class="row justify-content-center text-center mb-5">
             <div class="col-md-11">
                 <h2 class="heading" data-aos="fade-up">Gallery</h2>
