@@ -17,9 +17,9 @@
                                     <ul class="list-unstyled menu">
                                         <li class=${Home}><a href="/home">Home</a></li>
                                         <li class="${param.hotel}"><a href="/about">About Us</a></li>
-                                        <li class=${Contact}><a href="/contact-us">Contact Us</a></li>
                                         <li class="${param.activities}"><a href="/activities">Activities</a></li>
                                         <li class="${param.location}"><a href="/location">Location</a></li>
+                                        <li class=${Contact}><a href="/contact-us">Contact Us</a></li>
                                     </ul>
                                 </div>
                                 <div class="col-md-6 extra-info">
@@ -38,6 +38,11 @@
                                             <ul class="list-unstyled link">
                                                 <li><a href="https://www.facebook.com/sattalforestresort/">Facebook</a></li>
                                                 <li><a href="https://instagram.com/sattal_forest_resort?igshid=1l2lq75x8ig3z">Instagram</a></li>
+                                            </ul>
+                                            <h3 style="color:black;">Rate us on</h3>
+                                            <p style="width:60px;border-top:1px solid #aaa;margin-top:-20px"></p>
+                                            <ul class="list-unstyled link">
+                                                <li><a href="https://www.tripadvisor.in/Hotel_Review-g4108271-d1401259-Reviews-Sattal_Forest_Resort-Sattal_Nainital_District_Uttarakhand.html">Trip Advisor</a></li>
                                             </ul>
                                         </div>
                                     </div>

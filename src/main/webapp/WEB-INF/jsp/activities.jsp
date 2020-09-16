@@ -80,7 +80,7 @@
         <div class="image order-2" data-aos="fade"
              style="background-image: url('img/sattal-pics/activities/IMG_5952.jpg')"></div>
         <div class="text" data-aos="fade-left" data-aos-delay="200">
-            <h3>OTHER OUTDOOR EXPERIENCES</h3>
+            <h3>AND SOME MORE...</h3>
             <p>
             <ul>
                 <li>Boating at Sattal Lake, Naukuchiatal Lake and Bhimtal Lake (Take your pick)</li>
@@ -108,7 +108,27 @@
                 <p class="lead" data-aos="fade-up" data-aos-delay="100">
                     Witness the most exotic birds. Some 230 varieties of birds are found only in Sattal. To a trained eye, many can be seen at the Resort itself. Each day is a unique and delightful experience. We arrange bird watching expeditions with trained and professional bird watchers.</p>
             </div>
-        </div></div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200">
+                    <div class="slider-item">
+                        <img src="img/sattal-pics/resort-slider/IMG_20190606_182754-1-min.jpg" alt="Image placeholder" class="img-fluid">
+                    </div>
+                    <div class="slider-item">
+                        <img src="img/sattal-pics/resort-slider/IMG_20200226_102447-min.jpg" alt="Image placeholder" class="img-fluid">
+                    </div>
+                    <div class="slider-item">
+                        <img src="img/sattal-pics/resort-slider/Room.jpg" alt="Image placeholder" class="img-fluid">
+                    </div>
+                    <div class="slider-item">
+                        <img src="img/sattal-pics/resort-slider/Taruwar.JPG" alt="Image placeholder" class="img-fluid">
+                    </div>
+                </div>
+                <!-- END slider -->
+            </div>
+        </div>
+    </div>
 </section>
 <jsp:include page="footer.jsp"/>
 

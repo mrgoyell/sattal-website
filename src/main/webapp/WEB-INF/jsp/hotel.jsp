@@ -11,7 +11,8 @@
         <div class="row site-hero-inner justify-content-center align-items-center">
             <div class="col-md-10 text-center">
                 <h1 class="heading" data-aos="fade-up">About Us</h1>
-                <p class="sub-heading mb-5" data-aos="fade-up" data-aos-delay="100">Enjoy your stay.</p>
+                <p class="sub-heading mb-5" data-aos="fade-up" data-aos-delay="100">Established in 2008, the property is owned and managed by experienced professionals in the field of banking and management, who were driven by their love of the hills nurtured during their stay at boarding school and Aurobindo Ashram in Nainital.
+                    <br>The Resort is well maintained and caters to the aesthetic sense and comfort of the clients.</p>
             </div>
         </div>
         <!-- <a href="#" class="scroll-down">Scroll Down</a> -->
@@ -68,15 +69,6 @@
     <div class="container">
         <div class="row justify-content-center text-center mb-5">
             <div class="col-md-11">
-
-                <p class="lead" data-aos="fade-up" data-aos-delay="100">
-                    Established in 2008, the property is owned and managed by experienced professionals in the field of banking and management, who were driven by their love of the hills nurtured during their stay at boarding school and Aurobindo Ashram in Nainital.
-                    <br>The Resort is well maintained and caters to the aesthetic sense and comfort of the clients.
-                </p>
-            </div>
-        </div>
-        <div class="row justify-content-center text-center mb-5">
-            <div class="col-md-11">
                 <h2 class="heading" data-aos="fade-up">Accommodation</h2>
                 <p class="lead" data-aos="fade-up" data-aos-delay="100">
                     4 cottages comprising 12 independent rooms with attached bathrooms and balconies.</p>
@@ -91,7 +83,7 @@
         </div>
         <div class="row justify-content-center text-center mb-5">
             <div class="col-md-11">
-                <h2 class="heading" data-aos="fade-up">DINING</h2>
+                <h2 class="heading" data-aos="fade-up">Dining</h2>
                 <p class="lead" data-aos="fade-up" data-aos-delay="100">
                     Wholesome and hearty meals in a variety of cuisines, served at your doorstep! We are fully geared for room service / dining in the cottage dinning room with all necessary protection in view of Covid-19.
                 </p>
