@@ -2,7 +2,7 @@
 <html lang="en">
 <title>SFR|Hotel</title>
 <jsp:include page="navHeader.jsp"/>
-<body>
+<body style="overflow-x: auto">
 <jsp:include page="bodyHeader.jsp"/>
 <!-- loader -->
 <div class="se-pre-con"></div>
@@ -61,7 +61,7 @@
 
     <div class="half d-md-flex d-block">
         <div class="image order-2" data-aos="fade" style="background-image: url('img/sattal-pics/bageshwar.jpg');"></div>
-        <div class="text" data-aos="fade-left" data-aos-delay="200" style="border:1px solid #000;">
+        <div class="text" data-aos="fade-right" data-aos-delay="200" style="border:1px solid #000;">
             <h3>LOCATION AS A BASE</h3>
             <ul>
                 <li>Chakori </li>

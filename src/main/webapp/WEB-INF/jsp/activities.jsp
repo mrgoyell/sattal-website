@@ -39,7 +39,7 @@
     <div class="half d-md-flex d-block" style="border:1px solid #000;border-bottom:0 solid">
         <div class="image order-2" data-aos="fade"
              style="background-image: url('img/sattal-pics/activities/croquet.jpg')"></div>
-        <div class="text" data-aos="fade-left" data-aos-delay="200">
+        <div class="text" data-aos="fade-right" data-aos-delay="200">
             <h3>AT RESORT- OUTDOOR</h3>
             <p>
             <ul>
@@ -78,7 +78,7 @@
     <div class="half d-md-flex d-block" style="border:1px solid #000">
         <div class="image order-2" data-aos="fade"
              style="background-image: url('img/sattal-pics/activities/IMG_5952.jpg')"></div>
-        <div class="text" data-aos="fade-left" data-aos-delay="200">
+        <div class="text" data-aos="fade-right" data-aos-delay="200">
             <h3>AND SOME MORE...</h3>
             <p>
             <ul>

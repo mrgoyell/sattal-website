@@ -21,11 +21,12 @@
 <!-- END section -->
 
 <section class="section slider-section">
+    <div class="container">
     <div class="row justify-content-center text-center mb-5">
         <div class="col-md-12">
             <h3 class="heading" data-aos="fade-up">Accommodation</h3>
             <p class="lead" data-aos="fade-up" data-aos-delay="100">
-                4 cottages comprising 12 independent rooms with attached bathrooms and balconies.</p></div></div>
+                4 cottages comprising 12 independent rooms with attached bathrooms and balconies.</p></div></div></div>
     <div class="half d-md-flex d-block">
         <div class="image" data-aos="fade" style="background-image: url('img/sattal-pics/woodsvilla.jpg')"></div>
         <div class="text" data-aos="fade-right" data-aos-delay="200" style="border:1px solid #000">
@@ -38,7 +39,7 @@
     </div>
     <div class="half d-md-flex d-block">
         <div class="image order-2" data-aos="fade" style="background-image: url('img/sattal-pics/taruwar.jpg')"></div>
-        <div class="text" data-aos="fade-left" data-aos-delay="200" style="border:1px solid #000;">
+        <div class="text" data-aos="fade-right" data-aos-delay="200" style="border:1px solid #000;">
             <h3>Taruwar Cottage</h3>
             <p>3 bedroom cottage, with its own living room, dining and kitchen which can be made available for long stay.  The rooms have absolutely unhampered views of the lakes and its own private garden for a garden party.</p>
 
@@ -55,7 +56,7 @@
     </div>
     <div class="half d-md-flex d-block">
         <div class="image order-2" data-aos="fade" style="background-image: url('img/sattal-pics/room.JPG')"></div>
-        <div class="text" data-aos="fade-left" data-aos-delay="200" style="border:1px solid #000;">
+        <div class="text" data-aos="fade-right" data-aos-delay="200" style="border:1px solid #000;">
             <h3>Deodar Cottage</h3>
             <p>This is the main block of the Resort and has the common dining, activities area and the Resort kitchen and Reception on the ground floor. The floor above has  4 spacious bedrooms and a large terrace/ verandah to enjoy your morning cup of tea in the company of melodious birds or a relaxed evening with friends and family.</p>
             <p>Coming with your family? Take your pick from the above offering.  Book the entire cottage for a family-style, private vacation!</p>
