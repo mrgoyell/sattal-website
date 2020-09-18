@@ -6,7 +6,7 @@
 <jsp:include page="bodyHeader.jsp"/>
 <!-- loader -->
 <div class="se-pre-con"></div>
-<section class="site-hero overlay" style="background-image: url(img/sattal-pics/IMG_20180920_071524-min.jpg)">
+<section class="site-hero overlay" style="background-image: url(img/sattal-pics/IMG_20180920_071524-min.jpg);background-size:100% 100%;">
     <%--<section class="site-hero overlay" style="background-image: url(img/IMG_20181004_174215-1.jpg)">    --%>
     <div class="container">
         <div class="row site-hero-inner justify-content-center align-items-center">
@@ -34,10 +34,10 @@
         </div>
         <div class="row">
             <div class="col-md-12">
-                <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200" >
-                    <div class="slider-item">
+                <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200" style="height:auto;">
+                   <%-- <div class="slider-item">
                         <img src="img/sattal-pics/home-slider/entrance-panorama.jpg" alt="Image placeholder" class="img-fluid">
-                    </div>
+                    </div>--%>
                     <div class="slider-item">
                         <img src="img/sattal-pics/home-slider/home-slider-1-min.jpg" alt="Image placeholder" class="img-fluid">
                     </div>

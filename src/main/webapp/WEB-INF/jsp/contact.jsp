@@ -6,7 +6,7 @@
 <jsp:include page="bodyHeader.jsp"/>
 <!-- loader -->
 <div class="se-pre-con"></div>
-    <section class="site-hero overlay page-inside" style="background-image: url(img/sattal-pics/IMG_20200226_102435-min.jpg)">
+    <section class="site-hero overlay page-inside" style="background-image: url(img/sattal-pics/IMG_20200226_102435-min.jpg);background-size:100% 100%;">
       <div class="container">
         <div class="row site-hero-inner justify-content-center align-items-center">
           <div class="col-md-10 text-center">

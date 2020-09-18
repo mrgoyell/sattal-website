@@ -1,8 +1,8 @@
 <header class="site-header">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-4 site-logo" data-aos="fade" style="margin-top:-30px !important;"><a href="${Home}"><em>Sattal Forest Resort</em></a></div>
-            <div class="col-8" style="margin-top:-30px;margin-left:-20px">
+            <div class="col-12 site-logo" data-aos="fade" style="margin-top:-30px !important;"><a href="${Home}"><em>Sattal Forest Resort</em></a></div>
+            <div class="col-12" style="margin-top:-30px;margin-left:-20px">
                 <div class="site-menu-toggle js-site-menu-toggle"  data-aos="fade">
                     <span></span>
                     <span></span>

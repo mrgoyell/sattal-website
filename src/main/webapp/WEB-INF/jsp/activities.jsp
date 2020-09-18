@@ -14,7 +14,6 @@
                 <p class="sub-heading mb-5" data-aos="fade-up" data-aos-delay="100">Enjoy your stay.</p>
             </div>
         </div>
-        <!-- <a href="#" class="scroll-down">Scroll Down</a> -->
     </div>
 </section>
 <!-- END section -->
@@ -111,7 +110,7 @@
         </div>
         <div class="row">
             <div class="col-md-12">
-                <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200">
+                <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200" style="height:auto">
                     <div class="slider-item">
                         <img src="img/sattal-pics/birds/DSCN4608.jpg" alt="Image placeholder" class="img-fluid">
                     </div>

@@ -6,7 +6,7 @@
 <jsp:include page="bodyHeader.jsp"/>
 <!-- loader -->
 <div class="se-pre-con"></div>
-<section class="site-hero overlay page-inside" style="background-image: url(img/sattal-pics/location.png">
+<section class="site-hero overlay page-inside" style="background-image: url(img/sattal-pics/location.png);">
     <div class="container">
         <div class="row site-hero-inner justify-content-center align-items-center">
             <div class="col-md-10 text-center">
@@ -16,51 +16,6 @@
         <!-- <a href="#" class="scroll-down">Scroll Down</a> -->
     </div>
 </section>
-<!-- END section -->
-
-<%--<section class="bg-light" style="margin-top:30px">
-    <div class="half d-md-flex d-block">
-        <div class="image" data-aos="fade" style="background-image: url('img/sattal-pics/room.JPG')"></div>
-        <div class="text" data-aos="fade-right" data-aos-delay="200" style="border:1px solid #000">
-            <h2>Accommodation</h2>
-            <p>
-            <ul>
-                <li>4 cottages comprising 12 independent rooms, with attached balconies.</li>
-                <li>Coming with your family? Book the entire cottage for a family-style, private vacation!</li>
-                <li>Each cottage has a separate living room and attached garden.</li>
-                <li>The rooms are luxurious and well equipped
-                    with all modern amenities and running hot and cold water, electric blankets, satellite Televisions
-                    and
-                    DVD Players.
-                </li>
-            </ul>
-            </p>
-            <p class="mt-5"><a href="/contact-us" class="btn btn-primary uppercase">Book Now..</a></p>
-        </div>
-    </div>
-
-    <div class="half d-md-flex d-block">
-        <div class="image order-2" data-aos="fade" style="background-image: url('img/sattal-pics/IMG_20200226_102435-min.jpg')"></div>
-        <div class="text" data-aos="fade-left" data-aos-delay="200" style="border:1px solid #000;">
-            <h2>Dining</h2>
-
-            <p>Wholesome and hearty meals with a variety of cuisines, served at your doorstep! We are fully geared for
-                room service with all necessary protection in view of Covid-19.</p>
-            <p>Al-fresco dinings accompanied by bonfire (upon request) for those chilly Himalayan nights!</p>
-            <p>
-            <h4>TIMINGS: </h4>
-            <ul>
-                <li> Breakfast: 8:00 a.m - 10:00 a.m</li>
-                <li> Lunch: 1:30 p.m. - 3:30 p.m.</li>
-                <li> Dinner: 8:00 p.m - 10:00 p.m</li>
-            </ul>
-            </p>
-
-            <p class="mt-5"><a href="/contact-us" class="btn btn-primary uppercase">Learn More</a></p>
-        </div>
-    </div>
-
-</section>--%>
 <!-- END section -->
 
 <section class="section slider-section">
