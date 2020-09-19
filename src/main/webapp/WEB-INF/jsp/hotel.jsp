@@ -38,7 +38,7 @@
         </div>
     </div>
     <div class="half d-md-flex d-block">
-        <div class="image order-2" data-aos="fade" style="background-image: url('img/sattal-pics/taruwar.jpg')"></div>
+        <div class="image order-2" data-aos="fade" style="background-image: url('img/sattal-pics//resort-slider/Taruwar.JPG')"></div>
         <div class="text" data-aos="fade-right" data-aos-delay="200" style="border:1px solid #000;">
             <h3>Taruwar Cottage</h3>
             <p>3 bedroom cottage, with its own living room, dining and kitchen which can be made available for long stay.  The rooms have absolutely unhampered views of the lakes and its own private garden for a garden party.</p>
@@ -47,7 +47,7 @@
         </div>
     </div>
     <div class="half d-md-flex d-block">
-        <div class="image" data-aos="fade" style="background-image: url('img/sattal-pics/pine.jpg')"></div>
+        <div class="image" data-aos="fade" style="background-image: url('img/sattal-pics/room.JPG')"></div>
         <div class="text" data-aos="fade-right" data-aos-delay="200" style="border:1px solid #000">
             <h3>Pine Cottage</h3>
             <p>A cozy warm 2-bedroom cottage with a surrounding covered verandah to enjoy the monsoon and the lovely view of the lakes. The living room of the cottage is equipped with a library and a treadmill to workout. It has its own dining area  and kitchenette. A large terrace overlooking the lake and the beautiful gardens around both sides of the rooms.  The sunset garden also has the bonfire area.</p>
@@ -55,7 +55,7 @@
         </div>
     </div>
     <div class="half d-md-flex d-block">
-        <div class="image order-2" data-aos="fade" style="background-image: url('img/sattal-pics/room.JPG')"></div>
+        <div class="image order-2" data-aos="fade" style="background-image: url('img/sattal-pics/DeodarCottagNight view.jpg')"></div>
         <div class="text" data-aos="fade-right" data-aos-delay="200" style="border:1px solid #000;">
             <h3>Deodar Cottage</h3>
             <p>This is the main block of the Resort and has the common dining, activities area and the Resort kitchen and Reception on the ground floor. The floor above has  4 spacious bedrooms and a large terrace/ verandah to enjoy your morning cup of tea in the company of melodious birds or a relaxed evening with friends and family.</p>
@@ -88,16 +88,16 @@
             <div class="col-md-12">
                 <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200" style="height:auto;">
                     <div class="slider-item">
-                        <img src="img/sattal-pics/resort-slider/IMG_20190606_182754-1-min.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/resort-slider/GuestReceptionLobby.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
-                        <img src="img/sattal-pics/resort-slider/IMG_20200226_102447-min.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/resort-slider/IMG_20190606_182754-1-min.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
                         <img src="img/sattal-pics/resort-slider/Room.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                     <div class="slider-item">
-                        <img src="img/sattal-pics/resort-slider/Taruwar.JPG" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/taruwar.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
                 </div>
                 <!-- END slider -->

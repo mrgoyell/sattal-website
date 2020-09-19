@@ -18,6 +18,7 @@
                                         <li class=${Home}><a href="/home">Home</a></li>
                                         <li class="${param.hotel}"><a href="/about">About Us</a></li>
                                         <li class="${param.activities}"><a href="/activities">Activities</a></li>
+                                        <li class="${param.floraAndFauna}"><a href="/floraAndFauna">Flora & Fauna</a></li>
                                         <li class="${param.location}"><a href="/location">Location</a></li>
                                         <li class=${Contact}><a href="/contact-us">Contact Us</a></li>
                                     </ul>

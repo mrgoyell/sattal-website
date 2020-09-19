@@ -40,6 +40,11 @@ public class WebsiteController {
         return "jsp/contact";
     }
 
+    @GetMapping("/floraAndFauna")
+    public String floraAndFauna(){
+        return "jsp/flora";
+    }
+
     @PostMapping("/contact-us")
     public String contactForm(@RequestParam Map<String, String> params){
         websiteService.contact(params);
