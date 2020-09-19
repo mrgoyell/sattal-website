@@ -9,7 +9,7 @@
 <section class="site-hero overlay page-inside" style="background-image: url(img/sattal-pics/hotel-banner-min.jpg);background-size:100% 100%;">
     <div class="container">
         <div class="row site-hero-inner justify-content-center align-items-center">
-            <div class="col-md-10 text-center">
+            <div class="col-md-10 text-center headingAboutUs">
                 <h1 class="heading" data-aos="fade-up">About Us</h1>
                 <p class="sub-heading mb-5" data-aos="fade-up" data-aos-delay="100">Established in 2008, the property is owned and managed by experienced professionals in the field of banking and management, who were driven by their love of the hills nurtured during their stay at boarding school and Aurobindo Ashram in Nainital.
                     <br>The Resort is well maintained and caters to the aesthetic sense and comfort of the clients.</p>
