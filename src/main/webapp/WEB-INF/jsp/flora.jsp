@@ -6,7 +6,7 @@
 <jsp:include page="bodyHeader.jsp"/>
 <!-- loader -->
 <div class="se-pre-con"></div>
-<section class="site-hero overlay page-inside" style="background-image: url(img/sattal-pics/LocalHibiscus.jpg);background-size:100% 100%;">
+<section class="site-hero overlay page-inside" style="background-image: url(img/sattal-pics/flowers/MagentaImpatience.jpg);background-size:100% 100%;">
     <div class="container">
         <div class="row site-hero-inner justify-content-center align-items-center">
             <div class="col-md-10 text-center">
@@ -40,6 +40,9 @@
                     <div class="slider-item">
                         <img src="img/sattal-pics/flowers/DSCN4930.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
+                    <div class="slider-item">
+                        <img src="img/sattal-pics/AfricanLris.jpg" alt="Image placeholder" class="img-fluid">
+                    </div>
                 </div>
                 <!-- END slider -->
             </div>
@@ -49,9 +52,6 @@
                 <p class="lead" data-aos="fade-up" data-aos-delay="100">
                     Its beauty is unparalleled and a treat to the eyes of the ordinary and the horticulturist alike.
                 </p>
-            </div>
-            <div data-aos="fade-up" data-aos-delay="200">
-                <img src="img/sattal-pics/AfricanLris.jpg" alt="Image placeholder" class="img-fluid">
             </div>
         </div>
     </div>
