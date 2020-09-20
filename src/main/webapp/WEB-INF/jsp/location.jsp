@@ -74,7 +74,7 @@
             </ul>
             </p>
 
-            <p class="mt-5"><a href="/contact-us" class="btn btn-primary uppercase">Learn More</a></p>
+            <p class="mt-5"><a href="/location" class="btn btn-primary uppercase">Learn More</a></p>
         </div>
     </div>
 

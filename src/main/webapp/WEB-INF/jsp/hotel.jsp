@@ -43,7 +43,7 @@
             <h3>Taruwar Cottage</h3>
             <p>3 bedroom cottage, with its own living room, dining and kitchen which can be made available for long stay.  The rooms have absolutely unhampered views of the lakes and its own private garden for a garden party.</p>
 
-            <p class="mt-5"><a href="/contact-us" class="btn btn-primary uppercase">Learn More</a></p>
+            <p class="mt-5"><a href="/location" class="btn btn-primary uppercase">Learn More</a></p>
         </div>
     </div>
     <div class="half d-md-flex d-block">
@@ -61,7 +61,7 @@
             <p>This is the main block of the Resort and has the common dining, activities area and the Resort kitchen and Reception on the ground floor. The floor above has  4 spacious bedrooms and a large terrace/ verandah to enjoy your morning cup of tea in the company of melodious birds or a relaxed evening with friends and family.</p>
             <p>Coming with your family? Take your pick from the above offering.  Book the entire cottage for a family-style, private vacation!</p>
             <p>All rooms are luxurious and well equipped with all modern amenities including electric kettle, running hot and cold water and satellite television.</p>
-            <p class="mt-5"><a href="/contact-us" class="btn btn-primary uppercase">Learn More</a></p>
+            <p class="mt-5"><a href="/location" class="btn btn-primary uppercase">Learn More</a></p>
         </div>
     </div><br><br>
     <div class="container">

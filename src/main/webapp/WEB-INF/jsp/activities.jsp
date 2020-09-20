@@ -48,7 +48,7 @@
             </ul>
             </p>
 
-            <p class="mt-5"><a href="/contact-us" class="btn btn-primary uppercase">Learn More</a></p>
+            <p class="mt-5"><a href="/location" class="btn btn-primary uppercase">Learn More</a></p>
         </div>
     </div>
     <div class="half d-md-flex d-block" style="border:1px solid #000;border-bottom:0 solid">
@@ -95,7 +95,7 @@
             </ul>
             </p>
 
-            <p class="mt-5"><a href="/contact-us" class="btn btn-primary uppercase">Learn More</a></p>
+            <p class="mt-5"><a href="/location" class="btn btn-primary uppercase">Learn More</a></p>
         </div>
     </div>
 </section>
