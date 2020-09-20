@@ -20,15 +20,81 @@
 </section>
 <!-- END section -->
 
-<section class="section slider-section">
+<section class="section slider-section room-section spad">
     <div class="container">
     <div class="row justify-content-center text-center mb-5">
         <div class="col-md-12">
             <h3 class="heading" data-aos="fade-up">Accommodation</h3>
             <p class="lead" data-aos="fade-up" data-aos-delay="100">
                 4 cottages comprising 12 independent rooms with attached bathrooms and balconies.</p></div></div></div>
+  <%--  <div class="rooms-page-item" style="overflow-x:hidden">
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="room-pic-slider owl-carousel">
+                    <div class="single-room-pic">
+                        <img src="img/sattal-pics/woodsvilla.jpg" alt="">
+                    </div>
+                    <div class="single-room-pic">
+                        <img src="img/sattal-pics/activities/common-area-pool.JPG" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6" style="padding:0 40px;border:1px solid #000;margin-left:-15px">
+                <div class="room-text">
+                    <div class="room-title">
+                        <h3>Woodsvilla Cottage</h3>
+                    </div>
+                    <div class="room-desc">
+                        <p>
+                            3 bedroom cottage surrounded by tall pine trees offers a great view of the Sattal lakes. It has its own large garden space spacious living and dining room, as also an attached kitchenette. It's specially convenient for seniors as they don't have to climb many steps to their rooms.
+                        </p>
+                    </div>
+                    <p class="mt-5"><a href="/contact-us" class="btn btn-primary uppercase">Book Now..</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="rooms-page-item" style="overflow-x:hidden">
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="room-pic-slider owl-carousel">
+                    <div class="single-room-pic">
+                        <img src="img/sattal-pics/woodsvilla.jpg" alt="">
+                    </div>
+                    <div class="single-room-pic">
+                        <img src="img/sattal-pics/activities/common-area-pool.JPG" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6" style="padding:0 40px;border:1px solid #000;margin-left:-15px">
+                <div class="room-text">
+                    <div class="room-title">
+                        <h3>Woodsvilla Cottage</h3>
+                    </div>
+                    <div class="room-desc">
+                        <p>
+                            3 bedroom cottage surrounded by tall pine trees offers a great view of the Sattal lakes. It has its own large garden space spacious living and dining room, as also an attached kitchenette. It's specially convenient for seniors as they don't have to climb many steps to their rooms.
+                        </p>
+                    </div>
+                    <p class="mt-5"><a href="/contact-us" class="btn btn-primary uppercase">Book Now..</a></p>
+                </div>
+            </div>
+        </div>
+    </div>--%>
+
+
     <div class="half d-md-flex d-block">
-        <div class="image" data-aos="fade" style="background-image: url('img/sattal-pics/woodsvilla.jpg')"></div>
+        <div class="image rooms-page-item" data-aos="fade">
+            <div class="room-pic-slider owl-carousel ml-auto">
+                <div class="single-room-pic">
+                    <img src="img/sattal-pics/woodsvilla.jpg" alt="">
+                </div>
+                <div class="single-room-pic">
+                    <img src="img/sattal-pics/activities/common-area-pool.JPG" alt="">
+                </div>
+            </div>
+        </div>
         <div class="text" data-aos="fade-right" data-aos-delay="200" style="border:1px solid #000">
             <h3>Woodsvilla Cottage</h3>
             <p>
