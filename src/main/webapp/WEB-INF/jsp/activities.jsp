@@ -99,6 +99,45 @@
         </div>
     </div>
 </section>
+<section class="section slider-section">
+    <div class="container">
+        <div class="row justify-content-center text-center mb-5">
+            <div class="col-md-11">
+                <h2 class="heading" data-aos="fade-up">Gallery</h2>
+                <p class="lead" data-aos="fade-up" data-aos-delay="100">
+                    A perfect getaway for families, friends, corporate groups, birdwatchers and trekkers. Cherish the breathtaking panoramic views, exotic flora and fauna and let loose the photographer in you.
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200"
+                     style="height:auto;">
+                    <div class="slider-item">
+                        <img src="img/sattal-pics/activities/DSCN4651.jpg" alt="Image placeholder"
+                             class="img-fluid">
+                    </div>
+                    <div class="slider-item">
+                        <img src="img/sattal-pics/activities/DSCN4760.jpg" alt="Image placeholder"
+                             class="img-fluid">
+                    </div>
+                    <div class="slider-item">
+                        <img src="img/sattal-pics/activities/IMG_5925.jpg" alt="Image placeholder" class="img-fluid">
+                    </div>
+                    <div class="slider-item">
+                        <img src="img/sattal-pics/activities/instasize_200822233220.jpg" alt="Image placeholder" class="img-fluid">
+                    </div>
+                    <div class="slider-item">
+                        <img src="img/sattal-pics/activities/cool.jpg" alt="Image placeholder" class="img-fluid">
+                    </div>
+                    <div class="slider-item">
+                        <img src="img/sattal-pics/activities/boating.jpg" alt="Image placeholder" class="img-fluid">
+                    </div>
+
+
+                </div>
+            </div></div></div>
+</section>
 <jsp:include page="footer.jsp"/>
 
 <script src="js/jquery-3.2.1.min.js"></script>

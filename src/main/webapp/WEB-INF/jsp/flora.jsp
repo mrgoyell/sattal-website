@@ -6,7 +6,7 @@
 <jsp:include page="bodyHeader.jsp"/>
 <!-- loader -->
 <div class="se-pre-con"></div>
-<section class="site-hero overlay page-inside" style="background-image: url(img/sattal-pics/flowers/collage.jpeg);background-size:100% 100%;">
+<section class="site-hero overlay page-inside" style="background-image: url(img/sattal-pics/flowers/flowers.jpeg);background-size:100% 100%;">
     <div class="container">
         <div class="row site-hero-inner justify-content-center align-items-center">
             <div class="col-md-10 text-center">
@@ -14,16 +14,17 @@
             </div>
         </div>
         <!-- <a href="#" class="scroll-down">Scroll Down</a> -->
-    </div>
+    </div><br><br>
 </section>
 <!-- END section -->
-
-<section class="section slider-section">
+<section style="padding-top:50px">
     <div class="container">
         <div class="row justify-content-center text-center mb-5">
             <div class="col-md-11">
                 <p class="lead" data-aos="fade-up" data-aos-delay="100">
                     The Resort is enriched with more than 80 varieties of  flowers, fruits, herbs and spices that are grown extensively in the region and are made available through several NGO's and local women cooperatives. </p></div></div></div>
+</section>
+<section class="section slider-section" style="margin-top:-100px">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
