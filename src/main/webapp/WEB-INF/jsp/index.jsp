@@ -50,6 +50,18 @@
                     <div class="slider-item">
                         <img src="img/sattal-pics/home-slider/umbrella-on-roof.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
+                       <div class="slider-item">
+                           <img src="img/sattal-pics/home-slider/DSCN4653.jpg" alt="Image placeholder" class="img-fluid">
+                       </div>
+                       <div class="slider-item">
+                           <img src="img/sattal-pics/home-slider/DSCN4958.jpg" alt="Image placeholder" class="img-fluid">
+                       </div>
+                       <div class="slider-item">
+                           <img src="img/sattal-pics/home-slider/DSCN4960.jpg" alt="Image placeholder" class="img-fluid">
+                       </div>
+                       <div class="slider-item">
+                           <img src="img/sattal-pics/home-slider/DSCN5011.jpg" alt="Image placeholder" class="img-fluid">
+                       </div>
                 </div>
                 <!-- END slider -->
             </div>

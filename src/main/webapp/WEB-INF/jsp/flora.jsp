@@ -75,6 +75,12 @@
                     <div class="slider-item">
                         <img src="img/sattal-pics/birds/DSCN4683.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
+                    <div class="slider-item">
+                        <img src="img/sattal-pics/birds/9212-01.jpg" alt="Image placeholder" class="img-fluid">
+                    </div>
+                    <div class="slider-item">
+                        <img src="img/sattal-pics/birds/DSCN4822.jpg" alt="Image placeholder" class="img-fluid">
+                    </div>
                 </div>
                 <!-- END slider -->
             </div>
