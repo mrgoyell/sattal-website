@@ -35,9 +35,9 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200" style="height:auto;">
-                   <%-- <div class="slider-item">
-                        <img src="img/sattal-pics/home-slider/entrance-panorama.jpg" alt="Image placeholder" class="img-fluid">
-                    </div>--%>
+                    <%-- <div class="slider-item">
+                         <img src="img/sattal-pics/home-slider/entrance-panorama.jpg" alt="Image placeholder" class="img-fluid">
+                     </div>--%>
                     <div class="slider-item">
                         <img src="img/sattal-pics/home-slider/home-slider-1-min.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
@@ -50,23 +50,20 @@
                     <div class="slider-item">
                         <img src="img/sattal-pics/home-slider/umbrella-on-roof.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
-                       <div class="slider-item">
-                           <img src="img/sattal-pics/home-slider/processed4.jpeg" alt="Image placeholder" class="img-fluid">
-                       </div>
-                       <div class="slider-item">
-                           <img src="img/sattal-pics/home-slider/processed1.jpeg" alt="Image placeholder" class="img-fluid">
-                       </div>
-                       <div class="slider-item">
-                           <img src="img/sattal-pics/home-slider/processed2.jpeg" alt="Image placeholder" class="img-fluid">
-                       </div>
-                       <div class="slider-item">
-                           <img src="img/sattal-pics/home-slider/processed.jpeg" alt="Image placeholder" class="img-fluid">
-                       </div>
+                    <div class="slider-item">
+                        <img src="img/sattal-pics/home-slider/DSCN4653.jpg" alt="Image placeholder" class="img-fluid">
+                    </div>
+                    <div class="slider-item">
+                        <img src="img/sattal-pics/home-slider/DSCN4958.jpg" alt="Image placeholder" class="img-fluid">
+                    </div>
+                    <div class="slider-item">
+                        <img src="img/sattal-pics/home-slider/DSCN4960.jpg" alt="Image placeholder" class="img-fluid">
+                    </div>
+                    <div class="slider-item">
+                        <img src="img/sattal-pics/home-slider/DSCN5011.jpg" alt="Image placeholder" class="img-fluid">
+                    </div>
                 </div>
-                <!-- END slider -->
             </div>
-
-
         </div>
     </div>
 </section>

@@ -86,12 +86,15 @@
         </div>
         <div class="row">
             <div class="col-md-12">
-                <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200" style="height:auto;">
+                <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200"
+                     style="height:auto;">
                     <div class="slider-item">
-                        <img src="img/sattal-pics/resort-slider/GuestReceptionLobby.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/resort-slider/GuestReceptionLobby.jpg" alt="Image placeholder"
+                             class="img-fluid">
                     </div>
                     <div class="slider-item">
-                        <img src="img/sattal-pics/resort-slider/IMG_20190606_182754-1-min.jpg" alt="Image placeholder" class="img-fluid">
+                        <img src="img/sattal-pics/resort-slider/IMG_20190606_182754-1-min.jpg" alt="Image placeholder"
+                             class="img-fluid">
                     </div>
                     <div class="slider-item">
                         <img src="img/sattal-pics/resort-slider/Room.jpg" alt="Image placeholder" class="img-fluid">
@@ -99,11 +102,17 @@
                     <div class="slider-item">
                         <img src="img/sattal-pics/taruwar.jpg" alt="Image placeholder" class="img-fluid">
                     </div>
+                    <div class="slider-item">
+                        <img src="img/sattal-pics/resort-slider/DSCN4600.jpg" alt="Image placeholder" class="img-fluid">
+                    </div>
+                    <div class="slider-item">
+                        <img src="img/sattal-pics/resort-slider/DSCN4982.jpg" alt="Image placeholder" class="img-fluid">
+                    </div>
+                    <div class="slider-item">
+                        <img src="img/sattal-pics/resort-slider/DSCN4890.jpg" alt="Image placeholder" class="img-fluid">
+                    </div>
                 </div>
-                <!-- END slider -->
-            </div>
-        </div>
-    </div>
+    </div></div></div>
 </section>
 <!-- END section -->
 <jsp:include page="footer.jsp"/>
