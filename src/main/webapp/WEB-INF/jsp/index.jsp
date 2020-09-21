@@ -25,7 +25,7 @@
     <div class="container">
         <div class="row justify-content-center text-center mb-5">
             <div class="col-md-8">
-                <h2 class="heading" data-aos="fade-up">A gorgeous place to enjoy your life.</h2>
+                <h2 class="heading" data-aos="fade-up">A gorgeous place to enjoy your holiday.</h2>
                 <p class="lead" data-aos="fade-up" data-aos-delay="100">At an altitude of 5000 ft., the Sattal Forest
                     Resort is a boutique Resort, set amidst the thick pine and oak forests of the quaint Sattal hills.
                     The Resort overlooks the tranquil complex of Sattal Lakes. It offers unparalleled bird-watching
