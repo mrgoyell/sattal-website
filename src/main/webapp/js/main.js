@@ -34,20 +34,7 @@
 	  console.log('show');
 	});
 
-    /*------------------
-      Room Pic Slider
-  --------------------*/
-    $(".room-pic-slider").owlCarousel({
-        loop: true,
-        margin: 0,
-        nav: true,
-        items: 1,
-        dots: false,
-        navText: ['<i class="lnr lnr-arrow-left"></i>', '<i class="lnr lnr-arrow-right"></i>'],
-        autoplay:true,
-        autoplayTimeout:5000,
-        autoplayHoverPause:true
-    });
+
 
   // aos
   AOS.init({

@@ -1001,7 +1001,7 @@ textarea.form-control {
 
 .rooms-page-item .room-text {
   padding-top: 33px;
-  padding-right: 30px;
+  padding-left: 70px;
   padding-bottom: 34px;
 }
 
@@ -1095,8 +1095,6 @@ textarea.form-control {
   background-size: cover;
   transition: background-image 1s linear;
 }
-
-
 
 
 
