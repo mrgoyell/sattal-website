@@ -37,10 +37,10 @@
             <div class="col-lg-6 px-0">
                 <div class="room-pic-slider owl-carousel">
                     <div class="single-room-pic">
-                        <img src="img/sattal-pics/home-slider/home-slider-1-min.jpg" alt="">
+                        <img src="img/sattal-pics/resort-slider/DSCN4890.jpg" alt="">
                     </div>
                     <div class="single-room-pic">
-                        <img src="img/sattal-pics/woodsvilla.jpg" alt="">
+                        <img src="img/sattal-pics/resort-slider/entrance-panorama.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -68,7 +68,7 @@
                         <img src="img/sattal-pics//resort-slider/Taruwar.JPG" alt="">
                     </div>
                     <div class="single-room-pic">
-                        <img src="img/sattal-pics/woodsvilla.jpg" alt="">
+                        <img src="img/sattal-pics/taruwar.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -92,7 +92,7 @@
                         <img src="img/sattal-pics/room.JPG" alt="">
                     </div>
                     <div class="single-room-pic">
-                        <img src="img/sattal-pics/woodsvilla.jpg" alt="">
+                        <img src="img/sattal-pics/pine.jpg" style="width:100%" alt="">
                     </div>
                 </div>
             </div>
@@ -116,7 +116,7 @@
                         <img src="img/sattal-pics/DeodarCottagNight view.jpg" alt="" style="height:500px !important;">
                     </div>
                     <div class="single-room-pic">
-                        <img src="img/sattal-pics/woodsvilla.jpg" alt="" style="height:500px !important;">
+                        <img src="img/sattal-pics/SwingInDeodarGarden.jpg" alt="" style="height:500px !important;">
                     </div>
                 </div>
             </div>
@@ -145,7 +145,7 @@
 
 <script src="js/jquery-3.2.1.min.js"></script>
 <script src="js/popper.min.js"></script>
-<script src="js/bootstrap.min.js"></script>K
+<script src="js/bootstrap.min.js"></script>
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/jquery.waypoints.min.js"></script>
 <script src="js/aos.js"></script>
