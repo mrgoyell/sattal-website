@@ -55,7 +55,7 @@
         </div>
     </div>
     <div class="half d-md-flex d-block">
-        <div class="image order-2" data-aos="fade" style="background-image: url('img/sattal-pics/DeodarCottagNight view.jpg')"></div>
+        <div class="image order-2" data-aos="fade" style="background-image: url('img/sattal-pics/DeodarAndTaruwar.jpg')"></div>
         <div class="text" data-aos="fade-right" data-aos-delay="200" style="border:1px solid #000;">
             <h3>Deodar Cottage</h3>
             <p>This is the main block of the Resort and has the common dining, activities area and the Resort kitchen and Reception on the ground floor. The floor above has  4 spacious bedrooms and a large terrace/ verandah to enjoy your morning cup of tea in the company of melodious birds or a relaxed evening with friends and family.</p>
