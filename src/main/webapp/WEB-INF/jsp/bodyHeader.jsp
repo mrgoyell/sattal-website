@@ -28,9 +28,10 @@
                                         <div class="col-md-6 mb-5">
                                             <h3 style="color:black;">Contact Info</h3>
                                             <p style="width:60px;border-top:1px solid #aaa;margin-top:-20px"></p>
-                                            <p><span class="d-block">Address:</span> <span>  10 Surya Gaon, P.O Bhimtal. Distt. Nainital. Uttarakhand 263136 <br><b>Nearest Railway Station:</b>Kathgodham, Uttarakhand</span>
-                                            <p>Info@Sattalforestresort.In</p>
-                                            <p>+91 124 354 5453, +919810107116, +917982215338</p>
+                                            <p><b>Address :</b><span>  10 Surya Gaon, P.O. Bhimtal, Distt. Nainital, Uttarakhand 263136 <br><b>Nearest Railway Station:</b>Kathgodham, Uttarakhand</span>
+                                                <br><b>Sales Office :</b> Sattal Forest Resort G 17/20, DLF City Ph I Gurgaon 122002 Haryana, India</p>
+                                            <p>sattalforestresort@gmail.com</p>
+                                            <p>7982215338, 9810107116, 9910295370</p>
 
                                         </div>
                                         <div class="col-md-6">

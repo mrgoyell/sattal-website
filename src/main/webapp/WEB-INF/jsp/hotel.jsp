@@ -30,7 +30,7 @@
     <div class="half d-md-flex d-block">
         <div class="image" data-aos="fade" style="background-image: url('img/sattal-pics/woodsvilla.jpg')"></div>
         <div class="text" data-aos="fade-right" data-aos-delay="200" style="border:1px solid #000">
-            <h3>Woodsvilla Cottage</h3>
+            <h3>Woodsville Cottage</h3>
             <p>
                 3 bedroom cottage surrounded by tall pine trees offers a great view of the Sattal lakes. It has its own large garden space spacious living and dining room, as also an attached kitchenette. It's specially convenient for seniors as they don't have to climb many steps to their rooms.
             </p>
